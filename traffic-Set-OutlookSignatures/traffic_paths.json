@@ -2,13 +2,13 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: The open source gold st...",
-    "count": 489,
-    "uniques": 266
+    "count": 473,
+    "uniques": 256
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 261,
+    "count": 264,
     "uniques": 54
   },
   {
@@ -20,43 +20,43 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/bin",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/bin at main · Set-OutlookSign...",
-    "count": 71,
+    "count": 72,
     "uniques": 12
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Benefactor%20Circle.md",
     "title": "Set-OutlookSignatures/docs/Benefactor Circle.md at main · Set-OutlookSignatur...",
-    "count": 56,
-    "uniques": 19
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample%20code",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
-    "count": 55,
-    "uniques": 15
+    "count": 59,
+    "uniques": 21
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · Set-OutlookSignatures/Set-OutlookSignatu...",
-    "count": 50,
-    "uniques": 17
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures: The open source gold standard to...",
-    "count": 42,
-    "uniques": 18
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download%20information.txt",
-    "title": "Set-OutlookSignatures/download information.txt at main · Set-OutlookSignature...",
-    "count": 39,
+    "count": 53,
     "uniques": 16
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample%20code",
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
+    "count": 52,
+    "uniques": 15
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/bin/EWS",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/bin/EWS at main · Set-Outlook...",
-    "count": 38,
-    "uniques": 8
+    "count": 45,
+    "uniques": 7
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures: The open source gold standard to...",
+    "count": 39,
+    "uniques": 18
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/bin/MSAL.PS",
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/bin/MSAL.PS at main · Set-Out...",
+    "count": 39,
+    "uniques": 6
   }
 ]
