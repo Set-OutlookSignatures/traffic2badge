@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 417,
-    "uniques": 42
+    "count": 421,
+    "uniques": 43
   },
   {
     "referrer": "Google",
-    "count": 271,
-    "uniques": 96
+    "count": 289,
+    "uniques": 104
   },
   {
     "referrer": "reddit.com",
-    "count": 167,
-    "uniques": 62
+    "count": 201,
+    "uniques": 73
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 147,
-    "uniques": 7
+    "count": 150,
+    "uniques": 8
   },
   {
     "referrer": "Bing",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 46,
-    "uniques": 8
+    "count": 44,
+    "uniques": 7
   },
   {
     "referrer": "explicitconsulting.at",
@@ -40,12 +40,12 @@
     "uniques": 6
   },
   {
-    "referrer": "easydesk.infodis.com",
+    "referrer": "edgeservices.bing.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "usc-word-edit.officeapps.live.com",
+    "referrer": "search.brave.com",
     "count": 1,
     "uniques": 1
   }
