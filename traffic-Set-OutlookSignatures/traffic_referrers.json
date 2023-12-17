@@ -1,33 +1,33 @@
 [
   {
     "referrer": "Google",
-    "count": 608,
-    "uniques": 131
+    "count": 619,
+    "uniques": 142
   },
   {
     "referrer": "reddit.com",
-    "count": 222,
-    "uniques": 104
+    "count": 241,
+    "uniques": 112
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 169,
-    "uniques": 13
-  },
-  {
-    "referrer": "Bing",
-    "count": 119,
-    "uniques": 19
+    "count": 172,
+    "uniques": 15
   },
   {
     "referrer": "github.com",
-    "count": 86,
-    "uniques": 38
+    "count": 149,
+    "uniques": 39
+  },
+  {
+    "referrer": "Bing",
+    "count": 120,
+    "uniques": 20
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 63,
-    "uniques": 6
+    "count": 65,
+    "uniques": 8
   },
   {
     "referrer": "doku.seu.sozvers.at",
@@ -36,13 +36,13 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 4,
-    "uniques": 1
+    "count": 6,
+    "uniques": 2
   },
   {
     "referrer": "joinup.ec.europa.eu",
-    "count": 4,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "search.brave.com",
