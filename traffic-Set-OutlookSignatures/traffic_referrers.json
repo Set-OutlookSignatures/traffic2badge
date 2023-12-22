@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 438,
-    "uniques": 112
+    "count": 448,
+    "uniques": 117
   },
   {
     "referrer": "reddit.com",
-    "count": 198,
-    "uniques": 79
+    "count": 220,
+    "uniques": 87
   },
   {
     "referrer": "github.com",
-    "count": 159,
-    "uniques": 40
+    "count": 156,
+    "uniques": 45
   },
   {
     "referrer": "explicitconsulting.at",
@@ -40,13 +40,13 @@
     "uniques": 2
   },
   {
+    "referrer": "joinup.ec.europa.eu",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "referrer": "chat.openai.com",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "referrer": "joinup.ec.europa.eu",
-    "count": 2,
-    "uniques": 2
   }
 ]
