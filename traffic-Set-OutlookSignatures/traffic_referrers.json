@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 471,
-    "uniques": 123
+    "count": 487,
+    "uniques": 127
   },
   {
     "referrer": "reddit.com",
-    "count": 221,
-    "uniques": 95
+    "count": 312,
+    "uniques": 101
   },
   {
     "referrer": "github.com",
-    "count": 179,
-    "uniques": 46
+    "count": 180,
+    "uniques": 50
   },
   {
     "referrer": "explicitconsulting.at",
@@ -30,6 +30,11 @@
     "uniques": 1
   },
   {
+    "referrer": "yandex.ru",
+    "count": 26,
+    "uniques": 2
+  },
+  {
     "referrer": "doku.seu.sozvers.at",
     "count": 19,
     "uniques": 1
@@ -43,10 +48,5 @@
     "referrer": "DuckDuckGo",
     "count": 8,
     "uniques": 2
-  },
-  {
-    "referrer": "joinup.ec.europa.eu",
-    "count": 3,
-    "uniques": 3
   }
 ]
