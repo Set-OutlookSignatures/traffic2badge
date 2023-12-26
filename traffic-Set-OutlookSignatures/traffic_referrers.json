@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 457,
-    "uniques": 116
+    "count": 442,
+    "uniques": 110
   },
   {
     "referrer": "reddit.com",
-    "count": 325,
-    "uniques": 96
+    "count": 313,
+    "uniques": 88
   },
   {
     "referrer": "github.com",
-    "count": 171,
-    "uniques": 46
+    "count": 167,
+    "uniques": 43
   },
   {
     "referrer": "explicitconsulting.at",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 85,
-    "uniques": 12
+    "count": 82,
+    "uniques": 9
   },
   {
     "referrer": "it.hogkammen.se",
@@ -35,14 +35,14 @@
     "uniques": 2
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 9,
-    "uniques": 6
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 8,
     "uniques": 2
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "joinup.ec.europa.eu",
