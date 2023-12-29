@@ -1,23 +1,18 @@
 [
   {
-    "referrer": "Google",
-    "count": 276,
-    "uniques": 87
+    "referrer": "reddit.com",
+    "count": 258,
+    "uniques": 59
   },
   {
-    "referrer": "reddit.com",
-    "count": 276,
-    "uniques": 64
+    "referrer": "Google",
+    "count": 251,
+    "uniques": 82
   },
   {
     "referrer": "github.com",
-    "count": 157,
-    "uniques": 35
-  },
-  {
-    "referrer": "explicitconsulting.at",
-    "count": 40,
-    "uniques": 5
+    "count": 74,
+    "uniques": 32
   },
   {
     "referrer": "it.hogkammen.se",
@@ -25,28 +20,33 @@
     "uniques": 1
   },
   {
+    "referrer": "explicitconsulting.at",
+    "count": 37,
+    "uniques": 4
+  },
+  {
     "referrer": "yandex.ru",
-    "count": 26,
+    "count": 27,
     "uniques": 2
   },
   {
     "referrer": "Bing",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 4,
+    "referrer": "libhunt.com",
+    "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 3,
-    "uniques": 3
+    "referrer": "joinup.ec.europa.eu",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "joinup.ec.europa.eu",
-    "count": 3,
-    "uniques": 3
+    "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 1
   }
 ]
