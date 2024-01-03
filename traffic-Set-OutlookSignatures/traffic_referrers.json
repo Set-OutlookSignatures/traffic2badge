@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 224,
-    "uniques": 59
+    "count": 179,
+    "uniques": 49
   },
   {
     "referrer": "reddit.com",
-    "count": 221,
-    "uniques": 58
+    "count": 178,
+    "uniques": 46
   },
   {
     "referrer": "github.com",
-    "count": 104,
-    "uniques": 32
+    "count": 96,
+    "uniques": 27
   },
   {
     "referrer": "explicitconsulting.at",
@@ -45,7 +45,7 @@
     "uniques": 2
   },
   {
-    "referrer": "joinup.ec.europa.eu",
+    "referrer": "m.facebook.com",
     "count": 1,
     "uniques": 1
   }
