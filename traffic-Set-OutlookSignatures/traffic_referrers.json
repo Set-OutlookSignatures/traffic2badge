@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 780,
-    "uniques": 193
+    "count": 741,
+    "uniques": 188
   },
   {
     "referrer": "reddit.com",
-    "count": 471,
-    "uniques": 229
+    "count": 419,
+    "uniques": 217
   },
   {
     "referrer": "github.com",
-    "count": 173,
-    "uniques": 47
+    "count": 165,
+    "uniques": 43
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 96,
-    "uniques": 9
+    "count": 92,
+    "uniques": 7
   },
   {
     "referrer": "Bing",
-    "count": 61,
-    "uniques": 16
+    "count": 55,
+    "uniques": 14
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 32,
-    "uniques": 4
+    "count": 34,
+    "uniques": 5
   },
   {
     "referrer": "ecosia.org",
