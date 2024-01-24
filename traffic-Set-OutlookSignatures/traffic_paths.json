@@ -1,15 +1,15 @@
 [
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures: The open source gold standard to...",
-    "count": 809,
-    "uniques": 509
+    "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: The open source gold st...",
+    "count": 808,
+    "uniques": 494
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 315,
-    "uniques": 81
+    "count": 309,
+    "uniques": 80
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
@@ -20,26 +20,14 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · Set-OutlookSignatures/Set-OutlookSignatu...",
-    "count": 89,
+    "count": 90,
     "uniques": 31
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
     "title": "Releases · Set-OutlookSignatures/Set-OutlookSignatures",
-    "count": 48,
-    "uniques": 36
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/bin",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/bin at main · Set-OutlookSign...",
-    "count": 44,
-    "uniques": 14
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download%20information.txt",
-    "title": "Set-OutlookSignatures/download information.txt at main · Set-OutlookSignature...",
-    "count": 43,
-    "uniques": 20
+    "count": 47,
+    "uniques": 38
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/README.md",
@@ -48,15 +36,27 @@
     "uniques": 15
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
-    "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: The open source gold st...",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/bin",
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/bin at main · Set-OutlookSign...",
     "count": 42,
-    "uniques": 23
+    "uniques": 13
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
+    "title": "Set-OutlookSignatures/ at main · Set-OutlookSignatures/Set-OutlookSignatures ...",
+    "count": 41,
+    "uniques": 22
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download%20information.txt",
+    "title": "Set-OutlookSignatures/download information.txt at main · Set-OutlookSignature...",
+    "count": 41,
+    "uniques": 19
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample%20code",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
-    "count": 41,
-    "uniques": 14
+    "count": 38,
+    "uniques": 12
   }
 ]
