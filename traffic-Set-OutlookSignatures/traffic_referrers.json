@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 675,
-    "uniques": 177
+    "count": 652,
+    "uniques": 164
   },
   {
     "referrer": "reddit.com",
-    "count": 446,
-    "uniques": 201
+    "count": 396,
+    "uniques": 184
   },
   {
     "referrer": "github.com",
-    "count": 151,
+    "count": 184,
     "uniques": 44
-  },
-  {
-    "referrer": "Bing",
-    "count": 38,
-    "uniques": 10
   },
   {
     "referrer": "statics.teams.cdn.office.net",
     "count": 35,
     "uniques": 4
+  },
+  {
+    "referrer": "Bing",
+    "count": 33,
+    "uniques": 7
   },
   {
     "referrer": "joinup.ec.europa.eu",
@@ -46,7 +46,7 @@
   },
   {
     "referrer": "1itservices.sharepoint.com",
-    "count": 3,
+    "count": 2,
     "uniques": 1
   }
 ]
