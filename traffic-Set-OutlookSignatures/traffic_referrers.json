@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 672,
-    "uniques": 174
+    "count": 577,
+    "uniques": 156
   },
   {
     "referrer": "reddit.com",
-    "count": 365,
-    "uniques": 192
+    "count": 334,
+    "uniques": 165
   },
   {
     "referrer": "github.com",
-    "count": 193,
-    "uniques": 54
+    "count": 186,
+    "uniques": 51
   },
   {
     "referrer": "Bing",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 29,
+    "count": 25,
     "uniques": 5
   },
   {
