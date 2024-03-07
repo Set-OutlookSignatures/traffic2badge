@@ -1,27 +1,27 @@
 [
   {
     "referrer": "Google",
-    "count": 513,
-    "uniques": 142
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 301,
+    "count": 554,
     "uniques": 141
   },
   {
+    "referrer": "reddit.com",
+    "count": 327,
+    "uniques": 139
+  },
+  {
     "referrer": "github.com",
-    "count": 239,
-    "uniques": 49
+    "count": 240,
+    "uniques": 51
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 147,
-    "uniques": 13
+    "count": 138,
+    "uniques": 12
   },
   {
     "referrer": "Bing",
-    "count": 86,
+    "count": 72,
     "uniques": 13
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 17,
-    "uniques": 13
+    "count": 20,
+    "uniques": 16
   },
   {
     "referrer": "DuckDuckGo",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "StartPage",
-    "count": 11,
-    "uniques": 1
+    "count": 12,
+    "uniques": 2
   },
   {
     "referrer": "newreleases.io",
