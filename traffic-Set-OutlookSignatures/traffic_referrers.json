@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 554,
-    "uniques": 141
+    "count": 514,
+    "uniques": 136
   },
   {
     "referrer": "reddit.com",
-    "count": 327,
-    "uniques": 139
+    "count": 339,
+    "uniques": 144
   },
   {
     "referrer": "github.com",
-    "count": 240,
-    "uniques": 51
+    "count": 264,
+    "uniques": 57
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 138,
+    "count": 139,
     "uniques": 12
   },
   {
     "referrer": "Bing",
-    "count": 72,
-    "uniques": 13
+    "count": 74,
+    "uniques": 14
   },
   {
     "referrer": "ya.ru",
@@ -31,22 +31,22 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 20,
-    "uniques": 16
+    "count": 24,
+    "uniques": 19
+  },
+  {
+    "referrer": "app.clickup.com",
+    "count": 17,
+    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 15,
+    "count": 13,
     "uniques": 5
   },
   {
     "referrer": "StartPage",
-    "count": 12,
+    "count": 10,
     "uniques": 2
-  },
-  {
-    "referrer": "newreleases.io",
-    "count": 9,
-    "uniques": 1
   }
 ]
