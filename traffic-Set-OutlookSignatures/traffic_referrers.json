@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 765,
-    "uniques": 182
+    "count": 784,
+    "uniques": 190
   },
   {
     "referrer": "reddit.com",
-    "count": 407,
-    "uniques": 196
+    "count": 420,
+    "uniques": 202
   },
   {
     "referrer": "github.com",
-    "count": 133,
-    "uniques": 52
+    "count": 135,
+    "uniques": 55
   },
   {
     "referrer": "Bing",
-    "count": 108,
-    "uniques": 20
+    "count": 112,
+    "uniques": 23
   },
   {
     "referrer": "t.co",
@@ -30,19 +30,19 @@
     "uniques": 8
   },
   {
-    "referrer": "old.reddit.com",
-    "count": 11,
-    "uniques": 2
-  },
-  {
     "referrer": "explicitconsulting.at",
-    "count": 10,
-    "uniques": 2
+    "count": 11,
+    "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "old.reddit.com",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "referrer": "community.spiceworks.com",
     "count": 9,
-    "uniques": 6
+    "uniques": 8
   },
   {
     "referrer": "tasks.office.com",
