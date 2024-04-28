@@ -1,33 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 774,
-    "uniques": 175
+    "count": 823,
+    "uniques": 189
   },
   {
     "referrer": "reddit.com",
-    "count": 402,
-    "uniques": 186
+    "count": 423,
+    "uniques": 201
   },
   {
     "referrer": "github.com",
-    "count": 102,
-    "uniques": 41
+    "count": 90,
+    "uniques": 40
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 32,
-    "uniques": 13
+    "count": 34,
+    "uniques": 14
   },
   {
     "referrer": "Bing",
     "count": 29,
     "uniques": 12
-  },
-  {
-    "referrer": "explicitconsulting.at",
-    "count": 27,
-    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,13 +35,18 @@
     "uniques": 9
   },
   {
-    "referrer": "joinup.ec.europa.eu",
-    "count": 4,
+    "referrer": "posta.nbu.gov.sk",
+    "count": 11,
     "uniques": 1
   },
   {
-    "referrer": "edgeservices.bing.com",
-    "count": 2,
+    "referrer": "explicitconsulting.at",
+    "count": 9,
+    "uniques": 3
+  },
+  {
+    "referrer": "joinup.ec.europa.eu",
+    "count": 4,
     "uniques": 1
   }
 ]
