@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 776,
-    "uniques": 173
+    "count": 865,
+    "uniques": 185
   },
   {
     "referrer": "reddit.com",
-    "count": 357,
-    "uniques": 192
+    "count": 407,
+    "uniques": 203
   },
   {
     "referrer": "github.com",
-    "count": 129,
+    "count": 146,
     "uniques": 37
   },
   {
     "referrer": "Bing",
-    "count": 57,
+    "count": 58,
     "uniques": 11
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 38,
-    "uniques": 11
+    "count": 42,
+    "uniques": 13
   },
   {
     "referrer": "DuckDuckGo",
