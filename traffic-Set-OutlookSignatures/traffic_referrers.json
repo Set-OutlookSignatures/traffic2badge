@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 769,
-    "uniques": 199
+    "count": 694,
+    "uniques": 180
   },
   {
     "referrer": "reddit.com",
-    "count": 422,
-    "uniques": 209
+    "count": 389,
+    "uniques": 191
   },
   {
     "referrer": "github.com",
-    "count": 127,
-    "uniques": 43
+    "count": 126,
+    "uniques": 41
   },
   {
     "referrer": "Bing",
-    "count": 63,
+    "count": 61,
     "uniques": 12
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 41,
-    "uniques": 12
+    "count": 38,
+    "uniques": 10
   },
   {
     "referrer": "DuckDuckGo",
@@ -31,7 +31,7 @@
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 27,
+    "count": 26,
     "uniques": 8
   },
   {
