@@ -1,32 +1,32 @@
 [
   {
     "referrer": "Google",
-    "count": 522,
-    "uniques": 159
+    "count": 515,
+    "uniques": 153
   },
   {
     "referrer": "reddit.com",
-    "count": 398,
-    "uniques": 200
+    "count": 420,
+    "uniques": 211
   },
   {
     "referrer": "github.com",
-    "count": 121,
-    "uniques": 44
+    "count": 122,
+    "uniques": 45
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 52,
+    "count": 53,
     "uniques": 10
   },
   {
     "referrer": "Bing",
     "count": 30,
-    "uniques": 11
+    "uniques": 12
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 15,
+    "count": 12,
     "uniques": 6
   },
   {
@@ -35,18 +35,18 @@
     "uniques": 10
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 6,
-    "uniques": 4
+    "referrer": "inoreader.com",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "referrer": "com.google.android.gm",
+    "count": 7,
+    "uniques": 1
   },
   {
     "referrer": "support.carnac.com.au",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "referrer": "inoreader.com",
-    "count": 3,
-    "uniques": 1
   }
 ]
