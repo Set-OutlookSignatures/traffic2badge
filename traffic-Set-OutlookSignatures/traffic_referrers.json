@@ -1,52 +1,52 @@
 [
   {
-    "referrer": "Google",
-    "count": 653,
-    "uniques": 154
+    "referrer": "reddit.com",
+    "count": 675,
+    "uniques": 262
   },
   {
-    "referrer": "reddit.com",
-    "count": 616,
-    "uniques": 254
+    "referrer": "Google",
+    "count": 563,
+    "uniques": 143
   },
   {
     "referrer": "Bing",
-    "count": 108,
-    "uniques": 17
+    "count": 158,
+    "uniques": 21
   },
   {
     "referrer": "github.com",
-    "count": 105,
+    "count": 122,
     "uniques": 38
   },
   {
+    "referrer": "search.brave.com",
+    "count": 75,
+    "uniques": 2
+  },
+  {
     "referrer": "explicitconsulting.at",
-    "count": 42,
-    "uniques": 15
+    "count": 44,
+    "uniques": 16
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 22,
-    "uniques": 9
+    "count": 21,
+    "uniques": 8
   },
   {
-    "referrer": "search.brave.com",
-    "count": 22,
-    "uniques": 1
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
+    "referrer": "joinup.ec.europa.eu",
     "count": 21,
     "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 16,
-    "uniques": 4
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 19,
+    "uniques": 2
   },
   {
-    "referrer": "ecosia.org",
+    "referrer": "DuckDuckGo",
     "count": 8,
-    "uniques": 1
+    "uniques": 2
   }
 ]
