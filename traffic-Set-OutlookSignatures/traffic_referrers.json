@@ -1,22 +1,22 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 598,
-    "uniques": 250
+    "count": 594,
+    "uniques": 260
   },
   {
     "referrer": "Google",
-    "count": 485,
-    "uniques": 145
+    "count": 562,
+    "uniques": 159
   },
   {
     "referrer": "github.com",
-    "count": 309,
-    "uniques": 53
+    "count": 310,
+    "uniques": 55
   },
   {
     "referrer": "Bing",
-    "count": 93,
+    "count": 90,
     "uniques": 20
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 9,
+    "count": 6,
     "uniques": 4
   }
 ]
