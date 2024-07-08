@@ -1,23 +1,23 @@
 [
   {
-    "referrer": "reddit.com",
-    "count": 629,
-    "uniques": 275
+    "referrer": "Google",
+    "count": 546,
+    "uniques": 156
   },
   {
-    "referrer": "Google",
-    "count": 580,
-    "uniques": 167
+    "referrer": "reddit.com",
+    "count": 535,
+    "uniques": 247
   },
   {
     "referrer": "github.com",
-    "count": 321,
+    "count": 319,
     "uniques": 59
   },
   {
     "referrer": "Bing",
-    "count": 90,
-    "uniques": 20
+    "count": 79,
+    "uniques": 18
   },
   {
     "referrer": "search.brave.com",
@@ -41,7 +41,7 @@
   },
   {
     "referrer": "1itservices.sharepoint.com",
-    "count": 15,
+    "count": 13,
     "uniques": 3
   },
   {
