@@ -1,38 +1,38 @@
 [
   {
     "referrer": "Google",
-    "count": 553,
-    "uniques": 148
+    "count": 496,
+    "uniques": 147
   },
   {
     "referrer": "reddit.com",
-    "count": 397,
-    "uniques": 192
+    "count": 416,
+    "uniques": 187
   },
   {
     "referrer": "github.com",
-    "count": 286,
+    "count": 288,
     "uniques": 53
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 30,
-    "uniques": 4
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 24,
-    "uniques": 10
+    "count": 38,
+    "uniques": 6
   },
   {
     "referrer": "Bing",
+    "count": 23,
+    "uniques": 12
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
     "count": 22,
-    "uniques": 11
+    "uniques": 9
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 18,
-    "uniques": 9
+    "count": 13,
+    "uniques": 8
   },
   {
     "referrer": "servicedesk.symbioti.com.br",
@@ -45,8 +45,8 @@
     "uniques": 2
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 11,
-    "uniques": 1
+    "referrer": "primesolucoes.movidesk.com",
+    "count": 6,
+    "uniques": 2
   }
 ]
