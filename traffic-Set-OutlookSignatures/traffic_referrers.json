@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 542,
-    "uniques": 157
+    "count": 617,
+    "uniques": 167
   },
   {
     "referrer": "reddit.com",
-    "count": 483,
-    "uniques": 209
+    "count": 498,
+    "uniques": 223
   },
   {
     "referrer": "github.com",
-    "count": 228,
+    "count": 213,
     "uniques": 57
   },
   {
     "referrer": "Bing",
-    "count": 60,
-    "uniques": 14
+    "count": 66,
+    "uniques": 16
   },
   {
     "referrer": "explicitconsulting.at",
