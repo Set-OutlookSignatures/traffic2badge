@@ -1,27 +1,27 @@
 [
   {
     "referrer": "Google",
-    "count": 617,
-    "uniques": 167
+    "count": 637,
+    "uniques": 158
   },
   {
     "referrer": "reddit.com",
-    "count": 498,
-    "uniques": 223
+    "count": 451,
+    "uniques": 198
   },
   {
     "referrer": "github.com",
-    "count": 213,
-    "uniques": 57
+    "count": 192,
+    "uniques": 54
   },
   {
     "referrer": "Bing",
-    "count": 66,
-    "uniques": 16
+    "count": 64,
+    "uniques": 14
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 40,
+    "count": 39,
     "uniques": 7
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "1itservices.sharepoint.com",
-    "count": 11,
-    "uniques": 2
+    "count": 10,
+    "uniques": 1
   },
   {
     "referrer": "primesolucoes.movidesk.com",
