@@ -1,38 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 536,
-    "uniques": 208
+    "count": 633,
+    "uniques": 209
   },
   {
     "referrer": "Google",
-    "count": 401,
-    "uniques": 115
+    "count": 374,
+    "uniques": 117
   },
   {
     "referrer": "Bing",
-    "count": 28,
-    "uniques": 12
+    "count": 38,
+    "uniques": 13
   },
   {
     "referrer": "github.com",
-    "count": 22,
-    "uniques": 15
+    "count": 30,
+    "uniques": 16
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 10,
-    "uniques": 5
+    "count": 21,
+    "uniques": 7
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 10,
-    "uniques": 2
+    "count": 12,
+    "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 7,
-    "uniques": 4
+    "referrer": "community.spiceworks.com",
+    "count": 8,
+    "uniques": 7
   },
   {
     "referrer": "itsupport.maritimetransport.com",
@@ -40,13 +40,13 @@
     "uniques": 2
   },
   {
-    "referrer": "community.spiceworks.com",
-    "count": 6,
-    "uniques": 5
-  },
-  {
     "referrer": "perplexity.ai",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "primesolucoes.movidesk.com",
+    "count": 4,
     "uniques": 1
   }
 ]
