@@ -1,38 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 633,
-    "uniques": 209
+    "count": 641,
+    "uniques": 210
   },
   {
     "referrer": "Google",
-    "count": 374,
-    "uniques": 117
+    "count": 321,
+    "uniques": 122
   },
   {
     "referrer": "Bing",
-    "count": 38,
-    "uniques": 13
+    "count": 96,
+    "uniques": 14
   },
   {
     "referrer": "github.com",
-    "count": 30,
-    "uniques": 16
+    "count": 43,
+    "uniques": 18
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 21,
-    "uniques": 7
+    "count": 28,
+    "uniques": 8
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 12,
-    "uniques": 3
+    "count": 18,
+    "uniques": 5
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 8,
-    "uniques": 7
+    "count": 11,
+    "uniques": 8
   },
   {
     "referrer": "itsupport.maritimetransport.com",
