@@ -1,17 +1,17 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 626,
-    "uniques": 217
+    "count": 499,
+    "uniques": 192
   },
   {
     "referrer": "Google",
-    "count": 321,
-    "uniques": 122
+    "count": 274,
+    "uniques": 114
   },
   {
     "referrer": "Bing",
-    "count": 176,
+    "count": 177,
     "uniques": 21
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 63,
-    "uniques": 23
+    "count": 60,
+    "uniques": 22
   },
   {
     "referrer": "explicitconsulting.at",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 15,
-    "uniques": 10
+    "count": 14,
+    "uniques": 9
   },
   {
     "referrer": "mail.google.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "itsupport.maritimetransport.com",
-    "count": 9,
-    "uniques": 2
+    "referrer": "perplexity.ai",
+    "count": 5,
+    "uniques": 1
   }
 ]
