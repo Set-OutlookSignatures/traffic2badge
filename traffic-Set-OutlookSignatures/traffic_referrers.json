@@ -1,38 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 527,
-    "uniques": 189
+    "count": 569,
+    "uniques": 209
   },
   {
     "referrer": "Google",
-    "count": 244,
-    "uniques": 108
+    "count": 237,
+    "uniques": 114
   },
   {
     "referrer": "Bing",
-    "count": 182,
-    "uniques": 20
+    "count": 178,
+    "uniques": 17
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 105,
-    "uniques": 15
+    "count": 130,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
-    "count": 61,
+    "count": 62,
     "uniques": 23
   },
   {
-    "referrer": "community.spiceworks.com",
-    "count": 50,
-    "uniques": 13
+    "referrer": "explicitconsulting.at",
+    "count": 57,
+    "uniques": 10
   },
   {
-    "referrer": "explicitconsulting.at",
-    "count": 27,
-    "uniques": 7
+    "referrer": "community.spiceworks.com",
+    "count": 49,
+    "uniques": 12
   },
   {
     "referrer": "mail.google.com",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "responsive-html-email-signature-generator.com",
-    "count": 12,
-    "uniques": 1
+    "count": 13,
+    "uniques": 2
   },
   {
     "referrer": "yandex.ru",
