@@ -1,11 +1,5 @@
 [
   {
-    "path": "/Set-OutlookSignatures/traffic2badge",
-    "title": "GitHub - Set-OutlookSignatures/traffic2badge",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/Set-OutlookSignatures/traffic2badge/blob/main/.github/workflows/traffic2badge.yml",
     "title": "traffic2badge/.github/workflows/traffic2badge.yml at main · Set-OutlookSignat...",
     "count": 2,
@@ -21,6 +15,12 @@
     "path": "/Set-OutlookSignatures/traffic2badge/tree/main/.github/workflows",
     "title": "traffic2badge/.github/workflows at main · Set-OutlookSignatures/traffic2badge...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Set-OutlookSignatures/traffic2badge",
+    "title": "GitHub - Set-OutlookSignatures/traffic2badge",
+    "count": 1,
     "uniques": 1
   }
 ]
