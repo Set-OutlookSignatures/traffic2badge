@@ -2,26 +2,26 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures: Set-OutlookSignatures. Email sig...",
-    "count": 668,
-    "uniques": 422
+    "count": 725,
+    "uniques": 450
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 218,
-    "uniques": 52
+    "count": 221,
+    "uniques": 55
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1 at ...",
-    "count": 105,
-    "uniques": 37
+    "count": 109,
+    "uniques": 41
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Benefactor%20Circle.md",
     "title": "Set-OutlookSignatures/docs/Benefactor Circle.md at main · Set-OutlookSignatur...",
-    "count": 60,
-    "uniques": 24
+    "count": 63,
+    "uniques": 27
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
@@ -30,21 +30,21 @@
     "uniques": 20
   },
   {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.14.2",
+    "title": "Release Release v4.14.2 · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
+    "count": 48,
+    "uniques": 34
+  },
+  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/README.md",
     "title": "Set-OutlookSignatures/docs/README.md at main · Set-OutlookSignatures/Set-Outl...",
     "count": 48,
     "uniques": 16
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.14.2",
-    "title": "Release Release v4.14.2 · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
-    "count": 45,
-    "uniques": 32
-  },
-  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Set-OutlookSignatures. ...",
-    "count": 45,
+    "count": 47,
     "uniques": 23
   },
   {
@@ -56,7 +56,7 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample%20code",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
-    "count": 33,
-    "uniques": 13
+    "count": 35,
+    "uniques": 15
   }
 ]

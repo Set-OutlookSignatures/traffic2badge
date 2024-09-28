@@ -1,38 +1,43 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 595,
-    "uniques": 180
+    "count": 648,
+    "uniques": 196
   },
   {
     "referrer": "Google",
-    "count": 308,
-    "uniques": 104
+    "count": 322,
+    "uniques": 114
   },
   {
     "referrer": "Bing",
-    "count": 93,
-    "uniques": 25
-  },
-  {
-    "referrer": "github.com",
-    "count": 43,
-    "uniques": 16
+    "count": 94,
+    "uniques": 26
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 38,
-    "uniques": 8
+    "count": 39,
+    "uniques": 9
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 29,
-    "uniques": 13
+    "referrer": "github.com",
+    "count": 34,
+    "uniques": 16
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 28,
-    "uniques": 13
+    "count": 30,
+    "uniques": 15
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 30,
+    "uniques": 14
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 10,
+    "uniques": 6
   },
   {
     "referrer": "copilot.microsoft.com",
@@ -42,11 +47,6 @@
   {
     "referrer": "inoreader.com",
     "count": 6,
-    "uniques": 1
-  },
-  {
-    "referrer": "trello.com",
-    "count": 4,
     "uniques": 1
   }
 ]
