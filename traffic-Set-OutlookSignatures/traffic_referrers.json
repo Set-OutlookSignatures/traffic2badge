@@ -1,52 +1,52 @@
 [
   {
     "referrer": "Google",
-    "count": 313,
-    "uniques": 104
+    "count": 330,
+    "uniques": 105
   },
   {
     "referrer": "reddit.com",
-    "count": 289,
-    "uniques": 150
+    "count": 292,
+    "uniques": 164
   },
   {
     "referrer": "Bing",
-    "count": 93,
-    "uniques": 34
-  },
-  {
-    "referrer": "github.com",
-    "count": 65,
-    "uniques": 17
+    "count": 121,
+    "uniques": 37
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 45,
+    "count": 44,
     "uniques": 10
   },
   {
+    "referrer": "github.com",
+    "count": 36,
+    "uniques": 18
+  },
+  {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 18,
-    "uniques": 8
+    "count": 17,
+    "uniques": 10
   },
   {
     "referrer": "community.spiceworks.com",
     "count": 13,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 7,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
+  },
+  {
+    "referrer": "interoperable-europe.ec.europa.eu",
+    "count": 8,
+    "uniques": 1
   },
   {
     "referrer": "search.brave.com",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "referrer": "old.reddit.com",
-    "count": 3,
     "uniques": 1
   }
 ]
