@@ -1,23 +1,28 @@
 [
   {
-    "referrer": "Google",
-    "count": 272,
-    "uniques": 91
+    "referrer": "reddit.com",
+    "count": 299,
+    "uniques": 173
   },
   {
-    "referrer": "reddit.com",
-    "count": 263,
-    "uniques": 150
+    "referrer": "Google",
+    "count": 279,
+    "uniques": 96
   },
   {
     "referrer": "Bing",
-    "count": 94,
-    "uniques": 33
+    "count": 117,
+    "uniques": 37
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 70,
-    "uniques": 10
+    "count": 72,
+    "uniques": 11
+  },
+  {
+    "referrer": "github.com",
+    "count": 57,
+    "uniques": 20
   },
   {
     "referrer": "community.spiceworks.com",
@@ -26,13 +31,8 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 28,
-    "uniques": 10
-  },
-  {
-    "referrer": "github.com",
-    "count": 27,
-    "uniques": 13
+    "count": 32,
+    "uniques": 12
   },
   {
     "referrer": "conectanuvem.atlassian.net",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 15,
-    "uniques": 5
+    "count": 16,
+    "uniques": 6
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
