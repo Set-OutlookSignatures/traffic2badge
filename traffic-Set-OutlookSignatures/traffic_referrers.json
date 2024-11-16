@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 341,
-    "uniques": 161
+    "count": 365,
+    "uniques": 181
   },
   {
     "referrer": "Google",
-    "count": 219,
-    "uniques": 96
+    "count": 223,
+    "uniques": 103
   },
   {
     "referrer": "Bing",
-    "count": 67,
-    "uniques": 27
+    "count": 72,
+    "uniques": 31
   },
   {
     "referrer": "github.com",
@@ -26,13 +26,18 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 22,
-    "uniques": 14
+    "count": 29,
+    "uniques": 16
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 9,
-    "uniques": 7
+    "count": 13,
+    "uniques": 8
+  },
+  {
+    "referrer": "edgeservices.bing.com",
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "conectanuvem.atlassian.net",
@@ -40,13 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "edgeservices.bing.com",
+    "referrer": "yandex.ru",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "referrer": "old.reddit.com",
-    "count": 4,
-    "uniques": 1
+    "uniques": 3
   }
 ]
