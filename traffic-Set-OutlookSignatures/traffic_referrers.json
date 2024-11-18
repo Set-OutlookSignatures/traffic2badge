@@ -1,33 +1,28 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 411,
-    "uniques": 200
+    "count": 387,
+    "uniques": 184
   },
   {
     "referrer": "Google",
-    "count": 248,
-    "uniques": 112
+    "count": 209,
+    "uniques": 102
   },
   {
     "referrer": "Bing",
-    "count": 99,
-    "uniques": 36
+    "count": 94,
+    "uniques": 33
   },
   {
     "referrer": "github.com",
-    "count": 70,
-    "uniques": 18
-  },
-  {
-    "referrer": "explicitconsulting.at",
-    "count": 60,
-    "uniques": 9
+    "count": 68,
+    "uniques": 17
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 49,
-    "uniques": 17
+    "count": 48,
+    "uniques": 16
   },
   {
     "referrer": "community.spiceworks.com",
@@ -36,8 +31,13 @@
   },
   {
     "referrer": "edgeservices.bing.com",
-    "count": 13,
+    "count": 12,
     "uniques": 4
+  },
+  {
+    "referrer": "explicitconsulting.at",
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "conectanuvem.atlassian.net",
