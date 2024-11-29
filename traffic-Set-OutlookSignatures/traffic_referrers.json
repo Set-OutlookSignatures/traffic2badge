@@ -1,28 +1,23 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 397,
-    "uniques": 197
+    "count": 378,
+    "uniques": 191
   },
   {
     "referrer": "Google",
-    "count": 296,
+    "count": 291,
     "uniques": 98
   },
   {
     "referrer": "Bing",
-    "count": 110,
-    "uniques": 29
+    "count": 89,
+    "uniques": 27
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 44,
+    "count": 48,
     "uniques": 6
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 34,
-    "uniques": 8
   },
   {
     "referrer": "community.spiceworks.com",
@@ -31,8 +26,13 @@
   },
   {
     "referrer": "github.com",
-    "count": 24,
+    "count": 23,
     "uniques": 10
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "planner.cloud.microsoft",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 12,
-    "uniques": 3
+    "count": 14,
+    "uniques": 5
   },
   {
     "referrer": "forms.office.com",
