@@ -1,48 +1,48 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 405,
-    "uniques": 189
+    "count": 399,
+    "uniques": 194
   },
   {
     "referrer": "Google",
-    "count": 286,
+    "count": 288,
     "uniques": 109
   },
   {
     "referrer": "community.spiceworks.com",
     "count": 51,
-    "uniques": 9
-  },
-  {
-    "referrer": "Bing",
-    "count": 48,
-    "uniques": 18
-  },
-  {
-    "referrer": "github.com",
-    "count": 45,
-    "uniques": 29
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 45,
-    "uniques": 9
-  },
-  {
-    "referrer": "explicitconsulting.at",
-    "count": 35,
     "uniques": 8
   },
   {
-    "referrer": "1itservices.sharepoint.com",
-    "count": 7,
-    "uniques": 3
+    "referrer": "Bing",
+    "count": 49,
+    "uniques": 18
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 46,
+    "uniques": 10
+  },
+  {
+    "referrer": "github.com",
+    "count": 44,
+    "uniques": 28
+  },
+  {
+    "referrer": "explicitconsulting.at",
+    "count": 37,
+    "uniques": 10
   },
   {
     "referrer": "DuckDuckGo",
     "count": 5,
     "uniques": 5
+  },
+  {
+    "referrer": "1itservices.sharepoint.com",
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "doku.seu.sozvers.at",
