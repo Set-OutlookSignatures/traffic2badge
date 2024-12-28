@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 257,
-    "uniques": 149
+    "count": 274,
+    "uniques": 152
   },
   {
     "referrer": "Google",
-    "count": 201,
-    "uniques": 94
+    "count": 164,
+    "uniques": 90
   },
   {
     "referrer": "Bing",
-    "count": 48,
-    "uniques": 16
+    "count": 47,
+    "uniques": 15
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 33,
-    "uniques": 23
+    "count": 31,
+    "uniques": 22
   },
   {
     "referrer": "explicitconsulting.at",
