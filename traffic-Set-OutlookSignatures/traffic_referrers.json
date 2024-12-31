@@ -1,28 +1,28 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 241,
-    "uniques": 128
+    "count": 180,
+    "uniques": 105
   },
   {
     "referrer": "Google",
-    "count": 142,
-    "uniques": 73
-  },
-  {
-    "referrer": "Bing",
-    "count": 39,
-    "uniques": 13
+    "count": 116,
+    "uniques": 53
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 29,
-    "uniques": 11
+    "count": 27,
+    "uniques": 9
+  },
+  {
+    "referrer": "Bing",
+    "count": 25,
+    "uniques": 9
   },
   {
     "referrer": "github.com",
-    "count": 26,
-    "uniques": 19
+    "count": 22,
+    "uniques": 15
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "interoperable-europe.ec.europa.eu",
+    "referrer": "forms.office.com",
     "count": 2,
     "uniques": 1
   }
