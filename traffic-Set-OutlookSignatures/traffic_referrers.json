@@ -1,51 +1,51 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 252,
-    "uniques": 157
+    "count": 302,
+    "uniques": 185
   },
   {
     "referrer": "Google",
-    "count": 208,
-    "uniques": 70
+    "count": 242,
+    "uniques": 85
   },
   {
     "referrer": "Bing",
-    "count": 64,
-    "uniques": 14
+    "count": 76,
+    "uniques": 16
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 27,
-    "uniques": 5
+    "count": 31,
+    "uniques": 6
   },
   {
     "referrer": "github.com",
-    "count": 20,
-    "uniques": 8
-  },
-  {
-    "referrer": "explicitconsulting.at",
-    "count": 11,
-    "uniques": 7
+    "count": 22,
+    "uniques": 9
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 11,
-    "uniques": 3
+    "count": 16,
+    "uniques": 6
+  },
+  {
+    "referrer": "explicitconsulting.at",
+    "count": 13,
+    "uniques": 9
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 4,
-    "uniques": 3
+    "count": 11,
+    "uniques": 4
   },
   {
-    "referrer": "planner.cloud.microsoft",
+    "referrer": "powershellgallery.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "planner.cloud.microsoft",
     "count": 1,
     "uniques": 1
   }
