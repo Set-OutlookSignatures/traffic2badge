@@ -1,17 +1,17 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 289,
-    "uniques": 191
+    "count": 349,
+    "uniques": 216
   },
   {
     "referrer": "Google",
-    "count": 253,
-    "uniques": 88
+    "count": 264,
+    "uniques": 95
   },
   {
     "referrer": "Bing",
-    "count": 80,
+    "count": 111,
     "uniques": 21
   },
   {
@@ -45,8 +45,8 @@
     "uniques": 2
   },
   {
-    "referrer": "planner.cloud.microsoft",
-    "count": 1,
-    "uniques": 1
+    "referrer": "old.reddit.com",
+    "count": 2,
+    "uniques": 2
   }
 ]
