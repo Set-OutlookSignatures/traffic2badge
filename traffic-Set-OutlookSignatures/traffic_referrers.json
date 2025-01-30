@@ -1,38 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 382,
-    "uniques": 224
+    "count": 435,
+    "uniques": 257
   },
   {
     "referrer": "Google",
-    "count": 332,
-    "uniques": 112
+    "count": 287,
+    "uniques": 107
   },
   {
     "referrer": "Bing",
-    "count": 56,
-    "uniques": 25
+    "count": 53,
+    "uniques": 22
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 19,
-    "uniques": 5
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 17,
-    "uniques": 7
-  },
-  {
-    "referrer": "explicitconsulting.at",
-    "count": 13,
+    "count": 18,
     "uniques": 4
   },
   {
     "referrer": "github.com",
+    "count": 17,
+    "uniques": 15
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 16,
+    "uniques": 6
+  },
+  {
+    "referrer": "explicitconsulting.at",
     "count": 12,
-    "uniques": 12
+    "uniques": 3
   },
   {
     "referrer": "ecosia.org",
@@ -40,13 +40,13 @@
     "uniques": 2
   },
   {
+    "referrer": "old.reddit.com",
+    "count": 7,
+    "uniques": 6
+  },
+  {
     "referrer": "community.spiceworks.com",
     "count": 5,
     "uniques": 5
-  },
-  {
-    "referrer": "search.brave.com",
-    "count": 5,
-    "uniques": 2
   }
 ]
