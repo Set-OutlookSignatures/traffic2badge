@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 516,
-    "uniques": 304
+    "count": 456,
+    "uniques": 283
   },
   {
     "referrer": "Google",
-    "count": 335,
-    "uniques": 109
+    "count": 280,
+    "uniques": 100
   },
   {
     "referrer": "Bing",
-    "count": 66,
-    "uniques": 23
+    "count": 56,
+    "uniques": 21
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 14,
-    "uniques": 10
+    "count": 15,
+    "uniques": 11
   },
   {
     "referrer": "ecosia.org",
