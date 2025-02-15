@@ -1,12 +1,12 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 515,
+    "count": 512,
     "uniques": 250
   },
   {
     "referrer": "Google",
-    "count": 225,
+    "count": 230,
     "uniques": 103
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 25,
-    "uniques": 12
+    "count": 24,
+    "uniques": 11
   },
   {
     "referrer": "chatgpt.com",
@@ -41,7 +41,7 @@
   },
   {
     "referrer": "old.reddit.com",
-    "count": 6,
+    "count": 5,
     "uniques": 3
   },
   {
