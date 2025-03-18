@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 487,
-    "uniques": 272
+    "count": 445,
+    "uniques": 237
   },
   {
     "referrer": "Google",
-    "count": 299,
-    "uniques": 100
+    "count": 239,
+    "uniques": 86
   },
   {
     "referrer": "Bing",
-    "count": 104,
-    "uniques": 31
+    "count": 109,
+    "uniques": 33
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -21,18 +21,18 @@
   },
   {
     "referrer": "github.com",
-    "count": 57,
-    "uniques": 17
+    "count": 54,
+    "uniques": 15
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 31,
-    "uniques": 18
+    "count": 30,
+    "uniques": 17
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 30,
-    "uniques": 8
+    "count": 28,
+    "uniques": 7
   },
   {
     "referrer": "yandex.ru",
@@ -45,8 +45,8 @@
     "uniques": 5
   },
   {
-    "referrer": "search.brave.com",
-    "count": 5,
-    "uniques": 4
+    "referrer": "suporte.ip5tecnologia.com.br",
+    "count": 4,
+    "uniques": 1
   }
 ]
