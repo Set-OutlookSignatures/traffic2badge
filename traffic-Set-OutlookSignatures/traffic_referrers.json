@@ -1,37 +1,37 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 527,
-    "uniques": 233
+    "count": 580,
+    "uniques": 260
   },
   {
     "referrer": "Google",
-    "count": 253,
-    "uniques": 91
+    "count": 243,
+    "uniques": 95
   },
   {
     "referrer": "Bing",
-    "count": 87,
-    "uniques": 36
+    "count": 88,
+    "uniques": 38
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 57,
-    "uniques": 17
-  },
-  {
-    "referrer": "community.spiceworks.com",
-    "count": 41,
+    "count": 65,
     "uniques": 18
   },
   {
+    "referrer": "community.spiceworks.com",
+    "count": 42,
+    "uniques": 19
+  },
+  {
     "referrer": "github.com",
-    "count": 28,
-    "uniques": 12
+    "count": 31,
+    "uniques": 14
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 27,
+    "count": 30,
     "uniques": 8
   },
   {
@@ -41,11 +41,11 @@
   },
   {
     "referrer": "old.reddit.com",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "chatgpt.com",
+    "referrer": "search.brave.com",
     "count": 2,
     "uniques": 2
   }
