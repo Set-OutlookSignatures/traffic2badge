@@ -1,6 +1,11 @@
 [
   {
-    "referrer": "github.com",
+    "referrer": "reddit.com",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "referrer": "community.spiceworks.com",
     "count": 2,
     "uniques": 1
   }
