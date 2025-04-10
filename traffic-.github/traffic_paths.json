@@ -1,19 +1,13 @@
 [
   {
     "path": "/Set-OutlookSignatures/.github/tree/main/profile",
-    "title": ".github/profile at main · Set-OutlookSignatures/.github · GitHub",
-    "count": 4,
-    "uniques": 3
+    "title": ".github/profile at main · Set-OutlookSignatures/.github",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/Set-OutlookSignatures/.github",
     "title": "Set-OutlookSignatures/.github: The open source gold standard to centrally man...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Set-OutlookSignatures/.github/blob/main/profile/README.md",
-    "title": ".github/profile/README.md at main · Set-OutlookSignatures/.github · GitHub",
     "count": 1,
     "uniques": 1
   }
