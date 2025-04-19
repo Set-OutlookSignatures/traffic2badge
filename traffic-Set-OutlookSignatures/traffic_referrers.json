@@ -1,28 +1,28 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 772,
-    "uniques": 531
+    "count": 851,
+    "uniques": 567
   },
   {
     "referrer": "Google",
-    "count": 276,
-    "uniques": 106
+    "count": 296,
+    "uniques": 112
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 69,
-    "uniques": 11
+    "count": 70,
+    "uniques": 12
   },
   {
     "referrer": "Bing",
-    "count": 42,
-    "uniques": 16
+    "count": 52,
+    "uniques": 20
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 25,
-    "uniques": 14
+    "count": 26,
+    "uniques": 15
   },
   {
     "referrer": "statics.teams.cdn.office.net",
