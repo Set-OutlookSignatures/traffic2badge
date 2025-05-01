@@ -1,27 +1,27 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 489,
-    "uniques": 281
+    "count": 446,
+    "uniques": 266
   },
   {
     "referrer": "Google",
-    "count": 192,
+    "count": 198,
     "uniques": 87
   },
   {
     "referrer": "Bing",
-    "count": 53,
-    "uniques": 11
+    "count": 50,
+    "uniques": 8
   },
   {
     "referrer": "github.com",
-    "count": 28,
-    "uniques": 7
+    "count": 32,
+    "uniques": 11
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 18,
+    "count": 19,
     "uniques": 14
   },
   {
@@ -31,22 +31,22 @@
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 10,
-    "uniques": 7
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 5,
-    "uniques": 5
+    "count": 11,
+    "uniques": 8
   },
   {
     "referrer": "old.reddit.com",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 4,
-    "uniques": 2
+    "uniques": 4
   },
   {
     "referrer": "yandex.ru",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   }
 ]
