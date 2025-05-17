@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 346,
-    "uniques": 243
+    "count": 391,
+    "uniques": 268
   },
   {
     "referrer": "Google",
-    "count": 222,
-    "uniques": 81
+    "count": 242,
+    "uniques": 99
   },
   {
     "referrer": "Bing",
@@ -17,7 +17,7 @@
   {
     "referrer": "github.com",
     "count": 27,
-    "uniques": 12
+    "uniques": 13
   },
   {
     "referrer": "community.spiceworks.com",
@@ -31,7 +31,7 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 15,
+    "count": 16,
     "uniques": 6
   },
   {
