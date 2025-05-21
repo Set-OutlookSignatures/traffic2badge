@@ -1,43 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 378,
-    "uniques": 256
+    "count": 384,
+    "uniques": 255
   },
   {
     "referrer": "Google",
-    "count": 198,
-    "uniques": 91
+    "count": 165,
+    "uniques": 87
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 28,
-    "uniques": 6
-  },
-  {
-    "referrer": "community.spiceworks.com",
     "count": 26,
-    "uniques": 13
-  },
-  {
-    "referrer": "Bing",
-    "count": 26,
-    "uniques": 11
-  },
-  {
-    "referrer": "github.com",
-    "count": 20,
-    "uniques": 13
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 13,
     "uniques": 5
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 8,
-    "uniques": 4
+    "referrer": "github.com",
+    "count": 24,
+    "uniques": 15
+  },
+  {
+    "referrer": "community.spiceworks.com",
+    "count": 18,
+    "uniques": 12
+  },
+  {
+    "referrer": "Bing",
+    "count": 13,
+    "uniques": 10
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 7,
+    "uniques": 5
   },
   {
     "referrer": "jira.vianova.it",
@@ -45,8 +40,13 @@
     "uniques": 1
   },
   {
-    "referrer": "claude.ai",
-    "count": 3,
+    "referrer": "chatgpt.com",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "referrer": "set-outlooksignatures.com",
+    "count": 4,
     "uniques": 1
   }
 ]
