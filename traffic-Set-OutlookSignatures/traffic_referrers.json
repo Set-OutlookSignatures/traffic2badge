@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 476,
-    "uniques": 304
+    "count": 434,
+    "uniques": 276
   },
   {
     "referrer": "Google",
-    "count": 166,
-    "uniques": 95
+    "count": 154,
+    "uniques": 90
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -16,23 +16,23 @@
   },
   {
     "referrer": "github.com",
-    "count": 31,
-    "uniques": 14
+    "count": 30,
+    "uniques": 13
   },
   {
     "referrer": "explicitconsulting.at",
-    "count": 31,
-    "uniques": 3
+    "count": 30,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
-    "count": 21,
-    "uniques": 14
+    "count": 20,
+    "uniques": 13
   },
   {
     "referrer": "community.spiceworks.com",
     "count": 17,
-    "uniques": 12
+    "uniques": 13
   },
   {
     "referrer": "set-outlooksignatures.com",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 8,
-    "uniques": 5
+    "count": 9,
+    "uniques": 6
   },
   {
     "referrer": "perplexity.ai",
