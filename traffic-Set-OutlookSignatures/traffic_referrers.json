@@ -1,38 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 321,
-    "uniques": 229
+    "count": 308,
+    "uniques": 220
   },
   {
     "referrer": "Google",
-    "count": 106,
-    "uniques": 73
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 42,
-    "uniques": 19
+    "count": 111,
+    "uniques": 75
   },
   {
     "referrer": "community.spiceworks.com",
+    "count": 60,
+    "uniques": 14
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
     "count": 41,
-    "uniques": 13
+    "uniques": 18
   },
   {
     "referrer": "github.com",
-    "count": 30,
-    "uniques": 15
-  },
-  {
-    "referrer": "Bing",
-    "count": 20,
-    "uniques": 15
+    "count": 32,
+    "uniques": 17
   },
   {
     "referrer": "l.facebook.com",
     "count": 20,
     "uniques": 3
+  },
+  {
+    "referrer": "Bing",
+    "count": 19,
+    "uniques": 13
   },
   {
     "referrer": "set-outlooksignatures.com",
