@@ -2,14 +2,14 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
-    "count": 636,
-    "uniques": 466
+    "count": 590,
+    "uniques": 436
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 79,
-    "uniques": 47
+    "count": 75,
+    "uniques": 46
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
@@ -20,26 +20,20 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Benefactor%20Circle.md",
     "title": "Set-OutlookSignatures/docs/Benefactor Circle.md at main · Set-OutlookSignatur...",
-    "count": 33,
-    "uniques": 22
+    "count": 31,
+    "uniques": 20
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · Set-OutlookSignatures/Set-OutlookSignatu...",
-    "count": 31,
-    "uniques": 23
+    "count": 24,
+    "uniques": 18
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
-    "count": 25,
+    "count": 24,
     "uniques": 15
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Implementation%20approach.md",
-    "title": "Set-OutlookSignatures/docs/Implementation approach.md at main · Set-OutlookSi...",
-    "count": 18,
-    "uniques": 8
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
@@ -48,8 +42,14 @@
     "uniques": 11
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/README.md",
-    "title": "Set-OutlookSignatures/docs/README.md at main · Set-OutlookSignatures/Set-Outl...",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Implementation%20approach.md",
+    "title": "Set-OutlookSignatures/docs/Implementation approach.md at main · Set-OutlookSi...",
+    "count": 17,
+    "uniques": 7
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample%20code",
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
     "count": 14,
     "uniques": 11
   },
