@@ -2,61 +2,61 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
-    "count": 510,
-    "uniques": 367
+    "count": 560,
+    "uniques": 392
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 63,
-    "uniques": 37
+    "count": 83,
+    "uniques": 47
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1 at ...",
-    "count": 42,
-    "uniques": 28
+    "count": 50,
+    "uniques": 34
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · Set-OutlookSignatures/Set-OutlookSignatu...",
-    "count": 27,
-    "uniques": 20
+    "count": 42,
+    "uniques": 21
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Benefactor%20Circle.md",
     "title": "Set-OutlookSignatures/docs/Benefactor Circle.md at main · Set-OutlookSignatur...",
-    "count": 23,
-    "uniques": 17
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
-    "count": 20,
-    "uniques": 13
+    "count": 24,
+    "uniques": 18
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
     "title": "Releases · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
-    "count": 17,
-    "uniques": 12
+    "count": 22,
+    "uniques": 16
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Implementation%20approach.md",
-    "title": "Set-OutlookSignatures/docs/Implementation approach.md at main · Set-OutlookSi...",
-    "count": 14,
-    "uniques": 5
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
+    "count": 22,
+    "uniques": 14
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample%20code",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
-    "count": 13,
-    "uniques": 9
+    "count": 16,
+    "uniques": 11
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/README.md",
-    "title": "Set-OutlookSignatures/docs/README.md at main · Set-OutlookSignatures/Set-Outl...",
-    "count": 12,
-    "uniques": 9
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/Implementation%20approach.md",
+    "title": "Set-OutlookSignatures/docs/Implementation approach.md at main · Set-OutlookSi...",
+    "count": 16,
+    "uniques": 6
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.19.0",
+    "title": "Release Release v4.19.0 · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
+    "count": 15,
+    "uniques": 13
   }
 ]
