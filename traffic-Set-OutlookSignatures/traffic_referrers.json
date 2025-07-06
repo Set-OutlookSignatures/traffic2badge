@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 447,
-    "uniques": 222
+    "count": 489,
+    "uniques": 230
   },
   {
     "referrer": "Google",
-    "count": 310,
-    "uniques": 81
+    "count": 313,
+    "uniques": 87
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -16,13 +16,13 @@
   },
   {
     "referrer": "set-outlooksignatures.com",
-    "count": 32,
+    "count": 31,
     "uniques": 11
   },
   {
     "referrer": "Bing",
-    "count": 25,
-    "uniques": 12
+    "count": 27,
+    "uniques": 14
   },
   {
     "referrer": "github.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 19,
-    "uniques": 11
+    "count": 18,
+    "uniques": 10
   },
   {
     "referrer": "chatgpt.com",
