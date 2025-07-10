@@ -1,48 +1,48 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 376,
-    "uniques": 180
+    "count": 380,
+    "uniques": 192
   },
   {
     "referrer": "Google",
-    "count": 311,
-    "uniques": 75
+    "count": 216,
+    "uniques": 69
   },
   {
     "referrer": "set-outlooksignatures.com",
-    "count": 38,
+    "count": 45,
     "uniques": 11
   },
   {
     "referrer": "github.com",
     "count": 32,
-    "uniques": 10
+    "uniques": 11
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 29,
-    "uniques": 10
+    "count": 21,
+    "uniques": 8
   },
   {
     "referrer": "Bing",
-    "count": 19,
-    "uniques": 9
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 16,
-    "uniques": 4
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 9,
-    "uniques": 7
+    "count": 8,
+    "uniques": 6
   },
   {
     "referrer": "l.facebook.com",
     "count": 8,
     "uniques": 1
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "m365.cloud.microsoft",
