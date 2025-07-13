@@ -1,27 +1,32 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 416,
-    "uniques": 214
+    "count": 446,
+    "uniques": 229
   },
   {
     "referrer": "Google",
-    "count": 259,
+    "count": 263,
     "uniques": 75
   },
   {
     "referrer": "set-outlooksignatures.com",
-    "count": 42,
-    "uniques": 11
+    "count": 92,
+    "uniques": 14
   },
   {
     "referrer": "Bing",
-    "count": 41,
-    "uniques": 8
+    "count": 43,
+    "uniques": 10
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 23,
+    "count": 25,
+    "uniques": 10
+  },
+  {
+    "referrer": "community.spiceworks.com",
+    "count": 21,
     "uniques": 10
   },
   {
@@ -30,14 +35,9 @@
     "uniques": 8
   },
   {
-    "referrer": "community.spiceworks.com",
-    "count": 17,
-    "uniques": 8
-  },
-  {
     "referrer": "chatgpt.com",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "m365.cloud.microsoft",
@@ -45,8 +45,8 @@
     "uniques": 2
   },
   {
-    "referrer": "explicitconsulting.at",
-    "count": 2,
-    "uniques": 2
+    "referrer": "gemini.google.com",
+    "count": 3,
+    "uniques": 1
   }
 ]
