@@ -1,28 +1,28 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 291,
-    "uniques": 146
+    "count": 265,
+    "uniques": 129
   },
   {
     "referrer": "Google",
-    "count": 248,
-    "uniques": 88
-  },
-  {
-    "referrer": "set-outlooksignatures.com",
-    "count": 78,
-    "uniques": 15
+    "count": 210,
+    "uniques": 82
   },
   {
     "referrer": "Bing",
-    "count": 75,
-    "uniques": 20
+    "count": 73,
+    "uniques": 18
+  },
+  {
+    "referrer": "set-outlooksignatures.com",
+    "count": 71,
+    "uniques": 15
   },
   {
     "referrer": "github.com",
-    "count": 68,
-    "uniques": 13
+    "count": 67,
+    "uniques": 12
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
@@ -31,22 +31,22 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 25,
-    "uniques": 9
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 16,
+    "count": 28,
     "uniques": 10
   },
   {
-    "referrer": "m365.cloud.microsoft",
-    "count": 8,
-    "uniques": 4
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 15,
+    "uniques": 9
   },
   {
     "referrer": "chatgpt.com",
     "count": 7,
     "uniques": 4
+  },
+  {
+    "referrer": "ms.prizm-energy.com",
+    "count": 5,
+    "uniques": 2
   }
 ]
