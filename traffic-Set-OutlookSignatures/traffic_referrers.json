@@ -2,12 +2,12 @@
   {
     "referrer": "Google",
     "count": 182,
-    "uniques": 66
+    "uniques": 65
   },
   {
     "referrer": "reddit.com",
-    "count": 112,
-    "uniques": 54
+    "count": 106,
+    "uniques": 53
   },
   {
     "referrer": "set-outlooksignatures.com",
@@ -16,23 +16,23 @@
   },
   {
     "referrer": "Bing",
-    "count": 53,
-    "uniques": 21
+    "count": 52,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
-    "count": 47,
-    "uniques": 14
-  },
-  {
-    "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 25,
-    "uniques": 2
+    "count": 48,
+    "uniques": 15
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 23,
-    "uniques": 8
+    "count": 24,
+    "uniques": 9
+  },
+  {
+    "referrer": "interoperable-europe.ec.europa.eu",
+    "count": 24,
+    "uniques": 1
   },
   {
     "referrer": "claude.ai",
