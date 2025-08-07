@@ -1,33 +1,33 @@
 [
   {
     "referrer": "Google",
-    "count": 133,
-    "uniques": 53
-  },
-  {
-    "referrer": "set-outlooksignatures.com",
-    "count": 55,
-    "uniques": 7
+    "count": 126,
+    "uniques": 49
   },
   {
     "referrer": "Bing",
-    "count": 45,
-    "uniques": 13
+    "count": 47,
+    "uniques": 14
   },
   {
-    "referrer": "github.com",
-    "count": 29,
-    "uniques": 11
+    "referrer": "set-outlooksignatures.com",
+    "count": 35,
+    "uniques": 4
   },
   {
     "referrer": "reddit.com",
-    "count": 21,
-    "uniques": 13
+    "count": 26,
+    "uniques": 15
+  },
+  {
+    "referrer": "github.com",
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 20,
-    "uniques": 7
+    "count": 18,
+    "uniques": 5
   },
   {
     "referrer": "search.brave.com",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 6,
-    "uniques": 4
+    "count": 7,
+    "uniques": 5
   },
   {
     "referrer": "DuckDuckGo",
