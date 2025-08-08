@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 126,
+    "count": 148,
     "uniques": 49
   },
   {
@@ -16,18 +16,18 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 26,
-    "uniques": 15
+    "count": 29,
+    "uniques": 14
   },
   {
     "referrer": "github.com",
-    "count": 19,
+    "count": 20,
     "uniques": 9
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 18,
-    "uniques": 5
+    "count": 17,
+    "uniques": 4
   },
   {
     "referrer": "search.brave.com",
@@ -46,7 +46,7 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 5,
-    "uniques": 2
+    "count": 6,
+    "uniques": 3
   }
 ]
