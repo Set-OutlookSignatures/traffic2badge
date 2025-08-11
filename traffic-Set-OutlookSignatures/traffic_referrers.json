@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 195,
-    "uniques": 64
+    "count": 140,
+    "uniques": 56
   },
   {
     "referrer": "Bing",
@@ -16,13 +16,8 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 31,
-    "uniques": 14
-  },
-  {
-    "referrer": "github.com",
-    "count": 22,
-    "uniques": 11
+    "count": 30,
+    "uniques": 13
   },
   {
     "referrer": "search.brave.com",
@@ -35,18 +30,23 @@
     "uniques": 3
   },
   {
-    "referrer": "claude.ai",
-    "count": 9,
-    "uniques": 2
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 8,
-    "uniques": 4
+    "referrer": "github.com",
+    "count": 12,
+    "uniques": 10
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 7,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "referrer": "m365.cloud.microsoft",
+    "count": 6,
+    "uniques": 3
   }
 ]
