@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 164,
-    "uniques": 57
+    "count": 180,
+    "uniques": 62
   },
   {
     "referrer": "set-outlooksignatures.com",
@@ -10,19 +10,19 @@
     "uniques": 11
   },
   {
+    "referrer": "github.com",
+    "count": 40,
+    "uniques": 16
+  },
+  {
     "referrer": "reddit.com",
-    "count": 33,
+    "count": 37,
     "uniques": 9
   },
   {
-    "referrer": "github.com",
-    "count": 32,
-    "uniques": 15
-  },
-  {
     "referrer": "Bing",
-    "count": 32,
-    "uniques": 10
+    "count": 33,
+    "uniques": 11
   },
   {
     "referrer": "chatgpt.com",
@@ -30,14 +30,14 @@
     "uniques": 4
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 17,
-    "uniques": 7
-  },
-  {
     "referrer": "community.spiceworks.com",
     "count": 17,
     "uniques": 4
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 16,
+    "uniques": 6
   },
   {
     "referrer": "search.brave.com",
