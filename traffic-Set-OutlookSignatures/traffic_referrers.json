@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 108,
-    "uniques": 35
-  },
-  {
-    "referrer": "github.com",
-    "count": 50,
-    "uniques": 14
+    "count": 101,
+    "uniques": 34
   },
   {
     "referrer": "set-outlooksignatures.com",
     "count": 50,
     "uniques": 11
+  },
+  {
+    "referrer": "github.com",
+    "count": 48,
+    "uniques": 14
   },
   {
     "referrer": "reddit.com",
