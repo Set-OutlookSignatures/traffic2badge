@@ -1,33 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 88,
-    "uniques": 27
+    "count": 81,
+    "uniques": 22
   },
   {
     "referrer": "set-outlooksignatures.com",
-    "count": 49,
-    "uniques": 11
+    "count": 40,
+    "uniques": 9
   },
   {
     "referrer": "github.com",
-    "count": 45,
-    "uniques": 12
+    "count": 37,
+    "uniques": 9
   },
   {
     "referrer": "reddit.com",
-    "count": 18,
-    "uniques": 5
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 12,
+    "count": 16,
     "uniques": 3
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 9,
-    "uniques": 1
   },
   {
     "referrer": "Bing",
@@ -35,18 +25,28 @@
     "uniques": 6
   },
   {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 8,
+    "uniques": 2
+  },
+  {
     "referrer": "copilot.microsoft.com",
     "count": 7,
     "uniques": 2
   },
   {
-    "referrer": "community.spiceworks.com",
-    "count": 6,
-    "uniques": 2
+    "referrer": "libhunt.com",
+    "count": 2,
+    "uniques": 1
   },
   {
-    "referrer": "teams.microsoft.com",
-    "count": 6,
+    "referrer": "community.spiceworks.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "interoperable-europe.ec.europa.eu",
+    "count": 1,
     "uniques": 1
   }
 ]
