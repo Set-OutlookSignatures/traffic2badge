@@ -3788,14 +3788,14 @@
       "uniques": 4
     },
     {
-      "timestamp": "2025-12-15T00:00:00Z",
-      "count": 5,
-      "uniques": 4
-    },
-    {
       "timestamp": "2025-12-16T00:00:00Z",
       "count": 9,
       "uniques": 7
+    },
+    {
+      "timestamp": "2025-12-15T00:00:00Z",
+      "count": 5,
+      "uniques": 4
     },
     {
       "timestamp": "2025-12-17T00:00:00Z",
