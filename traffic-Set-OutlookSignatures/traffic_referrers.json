@@ -1,38 +1,33 @@
 [
   {
     "referrer": "Google",
-    "count": 125,
-    "uniques": 55
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 42,
-    "uniques": 4
+    "count": 99,
+    "uniques": 45
   },
   {
     "referrer": "Bing",
-    "count": 41,
-    "uniques": 9
+    "count": 40,
+    "uniques": 8
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 34,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
-    "count": 29,
-    "uniques": 12
+    "count": 23,
+    "uniques": 10
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 25,
-    "uniques": 7
+    "count": 20,
+    "uniques": 4
   },
   {
     "referrer": "com.reddit.frontpage",
     "count": 9,
     "uniques": 8
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 7,
-    "uniques": 2
   },
   {
     "referrer": "search.brave.com",
@@ -41,12 +36,17 @@
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 6,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "chatgpt.com",
-    "count": 4,
-    "uniques": 4
+    "count": 2,
+    "uniques": 2
   }
 ]
