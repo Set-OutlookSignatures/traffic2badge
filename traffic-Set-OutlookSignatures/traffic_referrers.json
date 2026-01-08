@@ -1,33 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 134,
-    "uniques": 42
+    "count": 122,
+    "uniques": 38
   },
   {
     "referrer": "github.com",
     "count": 15,
-    "uniques": 9
+    "uniques": 8
   },
   {
-    "referrer": "Bing",
-    "count": 13,
-    "uniques": 5
-  },
-  {
-    "referrer": "community.spiceworks.com",
-    "count": 11,
+    "referrer": "interoperable-europe.ec.europa.eu",
+    "count": 14,
     "uniques": 2
   },
   {
-    "referrer": "com.reddit.frontpage",
-    "count": 6,
-    "uniques": 6
-  },
-  {
-    "referrer": "search.brave.com",
+    "referrer": "Bing",
     "count": 5,
-    "uniques": 5
+    "uniques": 4
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -35,12 +25,22 @@
     "uniques": 4
   },
   {
-    "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 5,
-    "uniques": 1
+    "referrer": "com.reddit.frontpage",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "referrer": "search.brave.com",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "DuckDuckGo",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "community.spiceworks.com",
     "count": 3,
     "uniques": 1
   },
