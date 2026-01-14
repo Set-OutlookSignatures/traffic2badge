@@ -2,32 +2,44 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
-    "count": 446,
-    "uniques": 328
+    "count": 487,
+    "uniques": 359
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
-    "count": 61,
-    "uniques": 47
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample templates/Signatures H...",
+    "count": 73,
+    "uniques": 52
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1 at ...",
-    "count": 21,
-    "uniques": 19
+    "count": 20,
+    "uniques": 18
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · Set-OutlookSignatures/Set-OutlookSignatu...",
-    "count": 14,
-    "uniques": 13
+    "count": 17,
+    "uniques": 16
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
     "title": "Set-OutlookSignatures/download information.txt at main · Set-OutlookSignature...",
+    "count": 15,
+    "uniques": 13
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
     "count": 12,
-    "uniques": 10
+    "uniques": 11
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
+    "title": "Issues · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
+    "count": 12,
+    "uniques": 7
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
@@ -36,27 +48,15 @@
     "uniques": 10
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
-    "title": "Issues · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
-    "count": 11,
-    "uniques": 6
-  },
-  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
     "title": "Set-OutlookSignatures/docs/CODE_OF_CONDUCT.md at main · Set-OutlookSignatures...",
     "count": 9,
-    "uniques": 9
+    "uniques": 8
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.25.0",
-    "title": "Release Release v4.25.0 · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/README.md",
+    "title": "Set-OutlookSignatures/docs/SECURITY.md at main · Set-OutlookSignatures/Set-Ou...",
     "count": 9,
-    "uniques": 5
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/docs",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/docs at main · Set-OutlookSig...",
-    "count": 7,
     "uniques": 7
   }
 ]
