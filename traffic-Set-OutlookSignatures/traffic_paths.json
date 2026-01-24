@@ -1,27 +1,27 @@
 [
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and out-of-offi...",
-    "count": 638,
-    "uniques": 483
+    "title": "Set-OutlookSignatures/license.txt at main · Set-OutlookSignatures/Set-Outlook...",
+    "count": 608,
+    "uniques": 471
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample templates/Signatures H...",
-    "count": 90,
-    "uniques": 66
+    "count": 86,
+    "uniques": 64
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample code at main · Set-Out...",
-    "count": 36,
-    "uniques": 26
+    "count": 37,
+    "uniques": 28
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/bin/Set-OutlookSignatures/Set...",
-    "count": 30,
-    "uniques": 26
+    "count": 32,
+    "uniques": 25
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
@@ -32,7 +32,7 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 24,
+    "count": 23,
     "uniques": 19
   },
   {
@@ -44,19 +44,19 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
     "title": "Set-OutlookSignatures/download information.txt at main · Set-OutlookSignature...",
-    "count": 21,
-    "uniques": 19
+    "count": 15,
+    "uniques": 15
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample code",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/sample templates at main · Se...",
-    "count": 16,
-    "uniques": 16
+    "count": 15,
+    "uniques": 15
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
-    "title": "Releases · Set-OutlookSignatures/Set-OutlookSignatures",
-    "count": 14,
-    "uniques": 11
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures · Discussions · GitHub",
+    "count": 13,
+    "uniques": 5
   }
 ]
