@@ -6,13 +6,13 @@
   },
   {
     "referrer": "github.com",
-    "count": 60,
-    "uniques": 10
+    "count": 56,
+    "uniques": 8
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 44,
-    "uniques": 7
+    "count": 54,
+    "uniques": 12
   },
   {
     "referrer": "chatgpt.com",
@@ -21,13 +21,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 16,
-    "uniques": 10
-  },
-  {
-    "referrer": "community.spiceworks.com",
-    "count": 14,
-    "uniques": 7
+    "count": 12,
+    "uniques": 9
   },
   {
     "referrer": "search.brave.com",
@@ -35,14 +30,19 @@
     "uniques": 5
   },
   {
-    "referrer": "com.reddit.frontpage",
-    "count": 5,
-    "uniques": 5
+    "referrer": "community.spiceworks.com",
+    "count": 10,
+    "uniques": 6
   },
   {
     "referrer": "learn.microsoft.com",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "referrer": "com.reddit.frontpage",
     "count": 5,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "claude.ai",
