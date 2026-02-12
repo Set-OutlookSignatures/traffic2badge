@@ -1,28 +1,38 @@
 [
   {
     "referrer": "Google",
-    "count": 281,
-    "uniques": 116
+    "count": 296,
+    "uniques": 110
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 67,
-    "uniques": 14
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 22,
-    "uniques": 8
+    "count": 65,
+    "uniques": 13
   },
   {
     "referrer": "github.com",
-    "count": 19,
-    "uniques": 11
+    "count": 60,
+    "uniques": 18
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 23,
+    "uniques": 9
+  },
+  {
+    "referrer": "learn.microsoft.com",
+    "count": 12,
+    "uniques": 10
+  },
+  {
+    "referrer": "com.reddit.frontpage",
+    "count": 11,
+    "uniques": 9
   },
   {
     "referrer": "search.brave.com",
-    "count": 11,
-    "uniques": 5
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "Bing",
@@ -30,23 +40,13 @@
     "uniques": 7
   },
   {
-    "referrer": "com.reddit.frontpage",
-    "count": 9,
-    "uniques": 7
-  },
-  {
-    "referrer": "learn.microsoft.com",
-    "count": 8,
-    "uniques": 7
-  },
-  {
     "referrer": "community.spiceworks.com",
-    "count": 8,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
-    "referrer": "perplexity.ai",
-    "count": 4,
-    "uniques": 4
+    "referrer": "engage.cloud.microsoft",
+    "count": 3,
+    "uniques": 3
   }
 ]
