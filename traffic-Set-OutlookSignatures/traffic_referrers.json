@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 296,
-    "uniques": 110
+    "count": 297,
+    "uniques": 106
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -16,12 +16,12 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 23,
-    "uniques": 9
+    "count": 21,
+    "uniques": 8
   },
   {
     "referrer": "learn.microsoft.com",
-    "count": 12,
+    "count": 13,
     "uniques": 10
   },
   {
@@ -32,7 +32,7 @@
   {
     "referrer": "search.brave.com",
     "count": 10,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "Bing",
@@ -41,12 +41,12 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 4,
-    "uniques": 3
+    "count": 7,
+    "uniques": 5
   },
   {
-    "referrer": "engage.cloud.microsoft",
-    "count": 3,
-    "uniques": 3
+    "referrer": "perplexity.ai",
+    "count": 4,
+    "uniques": 4
   }
 ]
