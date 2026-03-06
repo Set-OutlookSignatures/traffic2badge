@@ -1,18 +1,23 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 300,
-    "uniques": 191
+    "count": 323,
+    "uniques": 195
   },
   {
     "referrer": "Google",
-    "count": 245,
-    "uniques": 96
+    "count": 235,
+    "uniques": 93
   },
   {
     "referrer": "github.com",
-    "count": 106,
-    "uniques": 51
+    "count": 127,
+    "uniques": 53
+  },
+  {
+    "referrer": "Bing",
+    "count": 41,
+    "uniques": 11
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -25,19 +30,14 @@
     "uniques": 8
   },
   {
-    "referrer": "Bing",
-    "count": 20,
+    "referrer": "learn.microsoft.com",
+    "count": 12,
     "uniques": 10
   },
   {
-    "referrer": "learn.microsoft.com",
-    "count": 13,
-    "uniques": 11
-  },
-  {
     "referrer": "com.reddit.frontpage",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "search.brave.com",
