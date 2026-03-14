@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 356,
-    "uniques": 190
+    "count": 338,
+    "uniques": 193
   },
   {
     "referrer": "Google",
-    "count": 297,
-    "uniques": 70
+    "count": 287,
+    "uniques": 64
   },
   {
     "referrer": "github.com",
-    "count": 151,
-    "uniques": 56
+    "count": 163,
+    "uniques": 57
   },
   {
     "referrer": "Bing",
@@ -21,8 +21,13 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 24,
+    "count": 26,
     "uniques": 8
+  },
+  {
+    "referrer": "com.reddit.frontpage",
+    "count": 18,
+    "uniques": 10
   },
   {
     "referrer": "search.brave.com",
@@ -30,14 +35,9 @@
     "uniques": 3
   },
   {
-    "referrer": "com.reddit.frontpage",
-    "count": 11,
-    "uniques": 6
-  },
-  {
     "referrer": "learn.microsoft.com",
-    "count": 10,
-    "uniques": 10
+    "count": 9,
+    "uniques": 9
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
