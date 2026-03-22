@@ -2,61 +2,61 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and ou...",
-    "count": 668,
-    "uniques": 465
+    "count": 659,
+    "uniques": 460
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and ou...",
-    "count": 122,
-    "uniques": 79
+    "count": 118,
+    "uniques": 80
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
     "title": "Set-OutlookSignatures/docs/CHANGELOG.md at main · Set-OutlookSignatures/Set-O...",
-    "count": 96,
-    "uniques": 34
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
-    "title": "Issues · Set-OutlookSignatures/Set-OutlookSignatures · GitHub",
-    "count": 78,
-    "uniques": 21
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures · Discussions · GitHub",
-    "count": 68,
-    "uniques": 9
+    "count": 79,
+    "uniques": 35
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 62,
-    "uniques": 35
+    "count": 65,
+    "uniques": 38
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
+    "title": "GitHub · Where software is built",
+    "count": 52,
+    "uniques": 23
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and ou...",
-    "count": 53,
-    "uniques": 36
+    "count": 51,
+    "uniques": 39
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/config/default replacement va...",
-    "count": 51,
-    "uniques": 5
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures · Discussions · GitHub",
+    "count": 50,
+    "uniques": 11
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and ou...",
     "count": 40,
-    "uniques": 24
+    "uniques": 25
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
+    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures/config/default replacement va...",
+    "count": 36,
+    "uniques": 5
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues/136",
     "title": "Outlook add-in does not auto-add signatures and logs \"SIGNATURE_HOSTS_AND_PLA...",
-    "count": 38,
+    "count": 27,
     "uniques": 2
   }
 ]
