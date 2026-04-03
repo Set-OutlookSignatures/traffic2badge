@@ -1,62 +1,62 @@
 [
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
-    "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Data Sovereign Email Si...",
-    "count": 650,
-    "uniques": 424
+    "title": "Overview",
+    "count": 651,
+    "uniques": 409
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
-    "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Data Sovereign Email Si...",
-    "count": 112,
-    "uniques": 72
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
-    "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Data Sovereign Email Si...",
-    "count": 43,
-    "uniques": 32
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 43,
-    "uniques": 21
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
-    "title": "Set-OutlookSignatures/docs/CHANGELOG.md at main · Set-OutlookSignatures/Set-O...",
-    "count": 40,
-    "uniques": 20
+    "title": "/tree/main/src_Set-OutlookSignatures",
+    "count": 106,
+    "uniques": 68
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures · Discussions · GitHub",
-    "count": 38,
-    "uniques": 11
+    "title": "/discussions",
+    "count": 52,
+    "uniques": 12
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
-    "title": "Set-OutlookSignatures/src_Set-OutlookSignatures at main · Set-OutlookSignatur...",
-    "count": 37,
-    "uniques": 29
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
+    "title": "/tree/main/docs",
+    "count": 48,
+    "uniques": 31
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
-    "title": "GitHub - Set-OutlookSignatures/Set-OutlookSignatures: Email signatures and ou...",
-    "count": 30,
-    "uniques": 26
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
-    "title": "Releases · Set-OutlookSignatures/Set-OutlookSignatures",
-    "count": 29,
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
+    "title": "/tree/main",
+    "count": 47,
     "uniques": 23
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
-    "title": "GitHub · Where software is built",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
+    "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
+    "count": 40,
+    "uniques": 30
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
+    "title": "/blob/main/docs/CHANGELOG.md",
+    "count": 36,
+    "uniques": 13
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
+    "title": "/blob/main/download information.txt",
+    "count": 29,
+    "uniques": 24
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
+    "title": "/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
+    "count": 27,
+    "uniques": 4
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
+    "title": "/releases",
     "count": 26,
-    "uniques": 15
+    "uniques": 21
   }
 ]
