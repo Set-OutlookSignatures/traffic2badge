@@ -2,61 +2,61 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 620,
-    "uniques": 400
+    "count": 603,
+    "uniques": 385
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "/tree/main/src_Set-OutlookSignatures",
-    "count": 98,
-    "uniques": 61
+    "count": 91,
+    "uniques": 56
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
     "title": "/discussions",
-    "count": 52,
-    "uniques": 11
+    "count": 50,
+    "uniques": 10
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 48,
-    "uniques": 30
+    "count": 44,
+    "uniques": 27
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "/tree/main",
-    "count": 43,
-    "uniques": 21
+    "count": 40,
+    "uniques": 20
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
     "title": "/blob/main/docs/CHANGELOG.md",
-    "count": 37,
-    "uniques": 14
+    "count": 34,
+    "uniques": 13
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
-    "count": 36,
-    "uniques": 28
+    "count": 31,
+    "uniques": 24
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
     "title": "/blob/main/download information.txt",
-    "count": 28,
-    "uniques": 22
+    "count": 26,
+    "uniques": 18
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
     "title": "/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
-    "count": 27,
+    "count": 25,
     "uniques": 4
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues/136",
     "title": "/issues/136",
-    "count": 24,
+    "count": 22,
     "uniques": 1
   }
 ]
