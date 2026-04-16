@@ -2,61 +2,61 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 617,
-    "uniques": 380
+    "count": 611,
+    "uniques": 373
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
     "title": "/discussions",
-    "count": 178,
+    "count": 193,
     "uniques": 11
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
     "title": "/issues",
-    "count": 144,
-    "uniques": 12
+    "count": 163,
+    "uniques": 13
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 113,
-    "uniques": 31
+    "count": 118,
+    "uniques": 28
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
     "title": "/blob/main/docs/CHANGELOG.md",
-    "count": 104,
-    "uniques": 18
+    "count": 110,
+    "uniques": 16
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample templates",
     "title": "/tree/main/src_Set-OutlookSignatures/sample templates",
-    "count": 89,
+    "count": 96,
     "uniques": 12
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CONTRIBUTING.md",
     "title": "/blob/main/docs/CONTRIBUTING.md",
-    "count": 86,
+    "count": 94,
     "uniques": 5
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
     "title": "/blob/main/src_Set-OutlookSignatures/config/default replacement variables.ps1",
-    "count": 84,
+    "count": 92,
     "uniques": 3
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues/136",
     "title": "/issues/136",
-    "count": 82,
+    "count": 90,
     "uniques": 2
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.26.0",
     "title": "/releases/tag/v4.26.0",
-    "count": 80,
+    "count": 88,
     "uniques": 3
   }
 ]
