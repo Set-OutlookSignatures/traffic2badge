@@ -2,12 +2,18 @@
   {
     "path": "/Set-OutlookSignatures/traffic2badge",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/Set-OutlookSignatures/traffic2badge/graphs/commit-activity",
     "title": "/graphs/commit-activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Set-OutlookSignatures/traffic2badge/pulls",
+    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }

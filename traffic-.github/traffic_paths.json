@@ -6,8 +6,20 @@
     "uniques": 1
   },
   {
+    "path": "/Set-OutlookSignatures/.github/graphs/commit-activity",
+    "title": "/graphs/commit-activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Set-OutlookSignatures/.github/issues",
     "title": "/issues",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Set-OutlookSignatures/.github/pulls",
+    "title": "/pulls",
     "count": 1,
     "uniques": 1
   },
