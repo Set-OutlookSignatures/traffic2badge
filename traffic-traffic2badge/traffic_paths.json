@@ -2,8 +2,20 @@
   {
     "path": "/Set-OutlookSignatures/traffic2badge",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/Set-OutlookSignatures/traffic2badge/blob/main/_config.yml",
+    "title": "/blob/main/_config.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Set-OutlookSignatures/traffic2badge/commits",
+    "title": "/commits",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/Set-OutlookSignatures/traffic2badge/graphs/commit-activity",
