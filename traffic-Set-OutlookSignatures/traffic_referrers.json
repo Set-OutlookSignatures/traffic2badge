@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 218,
-    "uniques": 130
+    "count": 210,
+    "uniques": 122
   },
   {
     "referrer": "Google",
-    "count": 168,
-    "uniques": 63
+    "count": 176,
+    "uniques": 67
   },
   {
     "referrer": "github.com",
-    "count": 117,
-    "uniques": 45
+    "count": 73,
+    "uniques": 46
   },
   {
     "referrer": "Bing",
@@ -20,19 +20,19 @@
     "uniques": 11
   },
   {
+    "referrer": "chatgpt.com",
+    "count": 19,
+    "uniques": 7
+  },
+  {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 16,
+    "count": 15,
     "uniques": 8
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 14,
-    "uniques": 6
-  },
-  {
     "referrer": "search.brave.com",
-    "count": 8,
-    "uniques": 4
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "perplexity.ai",
