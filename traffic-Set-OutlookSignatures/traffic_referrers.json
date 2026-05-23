@@ -1,28 +1,28 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 183,
-    "uniques": 116
+    "count": 157,
+    "uniques": 101
   },
   {
     "referrer": "Google",
-    "count": 138,
-    "uniques": 58
+    "count": 106,
+    "uniques": 49
   },
   {
     "referrer": "github.com",
-    "count": 59,
-    "uniques": 43
+    "count": 57,
+    "uniques": 41
   },
   {
     "referrer": "chatgpt.com",
-    "count": 26,
+    "count": 20,
     "uniques": 12
   },
   {
     "referrer": "Bing",
-    "count": 18,
-    "uniques": 10
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
