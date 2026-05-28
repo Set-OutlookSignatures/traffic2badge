@@ -1,28 +1,28 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 151,
-    "uniques": 94
+    "count": 150,
+    "uniques": 92
   },
   {
     "referrer": "Google",
     "count": 68,
-    "uniques": 39
+    "uniques": 42
   },
   {
     "referrer": "github.com",
-    "count": 62,
-    "uniques": 36
+    "count": 59,
+    "uniques": 35
   },
   {
     "referrer": "Bing",
-    "count": 26,
-    "uniques": 11
+    "count": 24,
+    "uniques": 10
   },
   {
     "referrer": "chatgpt.com",
-    "count": 20,
-    "uniques": 14
+    "count": 16,
+    "uniques": 11
   },
   {
     "referrer": "linkedin.com",
@@ -35,9 +35,9 @@
     "uniques": 2
   },
   {
-    "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 4,
-    "uniques": 1
+    "referrer": "com.reddit.frontpage",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "connect.northshoretech.net",
@@ -45,7 +45,7 @@
     "uniques": 2
   },
   {
-    "referrer": "com.reddit.frontpage",
+    "referrer": "link.edgepilot.com",
     "count": 2,
     "uniques": 2
   }
