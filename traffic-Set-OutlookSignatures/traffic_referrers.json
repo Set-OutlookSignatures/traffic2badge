@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 151,
-    "uniques": 92
+    "count": 149,
+    "uniques": 89
   },
   {
     "referrer": "github.com",
-    "count": 74,
-    "uniques": 36
+    "count": 80,
+    "uniques": 39
   },
   {
     "referrer": "Google",
-    "count": 70,
-    "uniques": 40
+    "count": 60,
+    "uniques": 38
   },
   {
     "referrer": "Bing",
@@ -21,8 +21,13 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 16,
-    "uniques": 11
+    "count": 20,
+    "uniques": 13
+  },
+  {
+    "referrer": "claude.ai",
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -42,11 +47,6 @@
   {
     "referrer": "connect.northshoretech.net",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "link.edgepilot.com",
-    "count": 2,
     "uniques": 2
   }
 ]
