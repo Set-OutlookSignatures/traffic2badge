@@ -2,8 +2,8 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 343,
-    "uniques": 221
+    "count": 326,
+    "uniques": 216
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
@@ -14,14 +14,14 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 17,
-    "uniques": 14
+    "count": 18,
+    "uniques": 15
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
     "title": "/blob/main/download information.txt",
-    "count": 16,
-    "uniques": 14
+    "count": 17,
+    "uniques": 15
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
@@ -30,16 +30,10 @@
     "uniques": 12
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
-    "title": "/releases",
-    "count": 16,
-    "uniques": 7
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
-    "title": "/blob/main/docs/CHANGELOG.md",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
+    "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "count": 12,
-    "uniques": 8
+    "uniques": 12
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
@@ -48,15 +42,21 @@
     "uniques": 8
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
-    "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
-    "count": 10,
-    "uniques": 10
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/docs",
+    "title": "/tree/main/src_Set-OutlookSignatures/docs",
+    "count": 11,
+    "uniques": 6
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.28.0",
-    "title": "/releases/tag/v4.28.0",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
+    "title": "/blob/main/docs/CHANGELOG.md",
     "count": 9,
-    "uniques": 9
+    "uniques": 7
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/README.md",
+    "title": "/blob/main/docs/README.md",
+    "count": 7,
+    "uniques": 7
   }
 ]
