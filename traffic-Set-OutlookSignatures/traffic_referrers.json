@@ -2,7 +2,7 @@
   {
     "referrer": "reddit.com",
     "count": 172,
-    "uniques": 75
+    "uniques": 78
   },
   {
     "referrer": "github.com",
@@ -11,23 +11,23 @@
   },
   {
     "referrer": "Google",
-    "count": 62,
-    "uniques": 36
+    "count": 68,
+    "uniques": 41
   },
   {
     "referrer": "chatgpt.com",
-    "count": 33,
-    "uniques": 16
-  },
-  {
-    "referrer": "Bing",
-    "count": 15,
-    "uniques": 6
+    "count": 37,
+    "uniques": 17
   },
   {
     "referrer": "statics.teams.cdn.office.net",
     "count": 12,
     "uniques": 7
+  },
+  {
+    "referrer": "Bing",
+    "count": 12,
+    "uniques": 6
   },
   {
     "referrer": "claude.ai",
