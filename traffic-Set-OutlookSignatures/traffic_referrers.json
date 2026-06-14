@@ -1,52 +1,52 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 209,
-    "uniques": 89
+    "count": 234,
+    "uniques": 95
   },
   {
     "referrer": "Google",
-    "count": 117,
-    "uniques": 59
+    "count": 140,
+    "uniques": 68
   },
   {
     "referrer": "github.com",
-    "count": 54,
-    "uniques": 32
+    "count": 60,
+    "uniques": 27
   },
   {
     "referrer": "chatgpt.com",
-    "count": 45,
-    "uniques": 16
-  },
-  {
-    "referrer": "Bing",
-    "count": 10,
-    "uniques": 4
+    "count": 39,
+    "uniques": 13
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 9,
+    "count": 15,
+    "uniques": 10
+  },
+  {
+    "referrer": "Bing",
+    "count": 12,
     "uniques": 6
   },
   {
     "referrer": "perplexity.ai",
-    "count": 9,
-    "uniques": 2
-  },
-  {
-    "referrer": "claude.ai",
-    "count": 7,
+    "count": 8,
     "uniques": 1
   },
   {
-    "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 2,
+    "referrer": "claude.ai",
+    "count": 5,
     "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "referrer": "teams.public.onecdn.static.microsoft",
+    "count": 3,
+    "uniques": 2
   }
 ]
