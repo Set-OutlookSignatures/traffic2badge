@@ -3,7 +3,7 @@
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
     "count": 392,
-    "uniques": 264
+    "uniques": 267
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
@@ -36,16 +36,16 @@
     "uniques": 10
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
-    "title": "/releases",
-    "count": 13,
-    "uniques": 13
-  },
-  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample templates",
     "title": "/tree/main/src_Set-OutlookSignatures/sample templates",
     "count": 13,
     "uniques": 10
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
+    "title": "/releases",
+    "count": 12,
+    "uniques": 12
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
