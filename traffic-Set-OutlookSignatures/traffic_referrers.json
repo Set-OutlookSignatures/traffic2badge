@@ -1,31 +1,31 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 190,
-    "uniques": 89
+    "count": 204,
+    "uniques": 91
   },
   {
     "referrer": "Google",
-    "count": 155,
-    "uniques": 76
+    "count": 148,
+    "uniques": 75
   },
   {
     "referrer": "github.com",
-    "count": 67,
+    "count": 68,
     "uniques": 26
   },
   {
+    "referrer": "chatgpt.com",
+    "count": 22,
+    "uniques": 14
+  },
+  {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 17,
+    "count": 19,
     "uniques": 8
   },
   {
     "referrer": "Bing",
-    "count": 15,
-    "uniques": 12
-  },
-  {
-    "referrer": "chatgpt.com",
     "count": 14,
     "uniques": 11
   },
@@ -45,7 +45,7 @@
     "uniques": 3
   },
   {
-    "referrer": "teams.public.onecdn.static.microsoft",
+    "referrer": "com.reddit.frontpage",
     "count": 4,
     "uniques": 3
   }
