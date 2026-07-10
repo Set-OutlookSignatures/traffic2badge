@@ -1,48 +1,48 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 168,
-    "uniques": 84
+    "count": 183,
+    "uniques": 93
   },
   {
     "referrer": "Google",
-    "count": 147,
-    "uniques": 73
+    "count": 149,
+    "uniques": 75
   },
   {
     "referrer": "github.com",
-    "count": 82,
-    "uniques": 32
+    "count": 101,
+    "uniques": 33
   },
   {
     "referrer": "chatgpt.com",
-    "count": 40,
-    "uniques": 18
+    "count": 44,
+    "uniques": 19
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 30,
-    "uniques": 9
+    "count": 28,
+    "uniques": 8
   },
   {
     "referrer": "Bing",
-    "count": 20,
-    "uniques": 16
+    "count": 17,
+    "uniques": 13
+  },
+  {
+    "referrer": "old.reddit.com",
+    "count": 13,
+    "uniques": 2
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 5,
+    "count": 6,
     "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "com.reddit.frontpage",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "newreleases.io",
