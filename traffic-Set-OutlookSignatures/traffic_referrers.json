@@ -1,33 +1,33 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 182,
-    "uniques": 92
+    "count": 191,
+    "uniques": 96
   },
   {
     "referrer": "github.com",
-    "count": 112,
-    "uniques": 37
+    "count": 121,
+    "uniques": 40
   },
   {
     "referrer": "Google",
-    "count": 108,
-    "uniques": 52
+    "count": 115,
+    "uniques": 55
   },
   {
     "referrer": "chatgpt.com",
-    "count": 54,
-    "uniques": 18
+    "count": 43,
+    "uniques": 14
   },
   {
     "referrer": "Bing",
-    "count": 23,
-    "uniques": 16
+    "count": 20,
+    "uniques": 13
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 12,
-    "uniques": 7
+    "count": 13,
+    "uniques": 8
   },
   {
     "referrer": "old.reddit.com",
@@ -36,7 +36,7 @@
   },
   {
     "referrer": "app.freelo.io",
-    "count": 9,
+    "count": 10,
     "uniques": 1
   },
   {
