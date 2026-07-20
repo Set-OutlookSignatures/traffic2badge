@@ -1,7 +1,7 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 181,
+    "count": 187,
     "uniques": 95
   },
   {
@@ -11,18 +11,18 @@
   },
   {
     "referrer": "Google",
-    "count": 110,
-    "uniques": 50
+    "count": 111,
+    "uniques": 48
   },
   {
     "referrer": "chatgpt.com",
-    "count": 32,
-    "uniques": 12
+    "count": 34,
+    "uniques": 13
   },
   {
     "referrer": "Bing",
-    "count": 21,
-    "uniques": 14
+    "count": 18,
+    "uniques": 12
   },
   {
     "referrer": "search.brave.com",
