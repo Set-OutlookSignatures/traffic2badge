@@ -2,8 +2,8 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 341,
-    "uniques": 215
+    "count": 339,
+    "uniques": 214
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
@@ -48,15 +48,15 @@
     "uniques": 10
   },
   {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
+    "title": "/discussions",
+    "count": 14,
+    "uniques": 7
+  },
+  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures/sample templates",
     "title": "/tree/main/src_Set-OutlookSignatures/sample templates",
     "count": 13,
     "uniques": 8
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
-    "title": "/discussions",
-    "count": 13,
-    "uniques": 6
   }
 ]
