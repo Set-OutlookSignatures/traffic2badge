@@ -2,14 +2,14 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 480,
+    "count": 483,
     "uniques": 270
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "/tree/main/src_Set-OutlookSignatures",
-    "count": 54,
-    "uniques": 41
+    "count": 57,
+    "uniques": 43
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.31.0",
@@ -36,6 +36,12 @@
     "uniques": 13
   },
   {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
+    "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
+    "count": 17,
+    "uniques": 16
+  },
+  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/docs/CHANGELOG.md",
     "title": "/blob/main/docs/CHANGELOG.md",
     "count": 16,
@@ -44,12 +50,6 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
     "title": "/blob/main/download information.txt",
-    "count": 15,
-    "uniques": 14
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
-    "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "count": 15,
     "uniques": 14
   },
