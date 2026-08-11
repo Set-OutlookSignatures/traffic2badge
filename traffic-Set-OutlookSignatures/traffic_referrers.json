@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 231,
-    "uniques": 85
+    "count": 226,
+    "uniques": 83
   },
   {
     "referrer": "reddit.com",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 81,
-    "uniques": 33
+    "count": 79,
+    "uniques": 32
   },
   {
     "referrer": "chatgpt.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 13,
-    "uniques": 7
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "claude.ai",
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "com.reddit.frontpage",
-    "count": 3,
+    "referrer": "interoperable-europe.ec.europa.eu",
+    "count": 4,
     "uniques": 3
   },
   {
-    "referrer": "interoperable-europe.ec.europa.eu",
+    "referrer": "com.reddit.frontpage",
     "count": 2,
     "uniques": 2
   }
