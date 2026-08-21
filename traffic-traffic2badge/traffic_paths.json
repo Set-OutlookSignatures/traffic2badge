@@ -4,5 +4,11 @@
     "title": "/issues",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/Set-OutlookSignatures/traffic2badge/pulls",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
   }
 ]
