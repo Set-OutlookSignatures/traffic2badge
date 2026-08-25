@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 242,
-    "uniques": 91
+    "count": 245,
+    "uniques": 94
   },
   {
     "referrer": "reddit.com",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 120,
-    "uniques": 35
+    "count": 118,
+    "uniques": 34
   },
   {
     "referrer": "chatgpt.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 15,
-    "uniques": 3
+    "count": 13,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
