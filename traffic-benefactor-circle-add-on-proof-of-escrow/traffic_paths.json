@@ -1,15 +1,9 @@
 [
   {
-    "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow/tree/main/proof",
-    "title": "/tree/main/proof",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow",
     "title": "Overview",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow/issues",
@@ -20,24 +14,6 @@
   {
     "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow/pulls",
     "title": "/pulls",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow/tree/main",
-    "title": "/tree/main",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow/tree/main/proof/v4.30.0",
-    "title": "/tree/main/proof/v4.30.0",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Set-OutlookSignatures/benefactor-circle-add-on-proof-of-escrow/tree/main/proof/v4.31.0",
-    "title": "/tree/main/proof/v4.31.0",
     "count": 1,
     "uniques": 1
   }
