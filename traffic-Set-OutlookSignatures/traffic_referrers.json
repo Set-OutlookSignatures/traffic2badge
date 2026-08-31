@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 238,
+    "count": 250,
     "uniques": 84
   },
   {
     "referrer": "reddit.com",
-    "count": 202,
-    "uniques": 108
+    "count": 200,
+    "uniques": 107
   },
   {
     "referrer": "github.com",
@@ -21,13 +21,13 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 35,
-    "uniques": 14
+    "count": 34,
+    "uniques": 13
   },
   {
     "referrer": "Bing",
-    "count": 14,
-    "uniques": 11
+    "count": 17,
+    "uniques": 12
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
@@ -45,8 +45,8 @@
     "uniques": 2
   },
   {
-    "referrer": "Yahoo",
-    "count": 1,
-    "uniques": 1
+    "referrer": "com.reddit.frontpage",
+    "count": 2,
+    "uniques": 2
   }
 ]
