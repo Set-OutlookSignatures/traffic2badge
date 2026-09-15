@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 145,
-    "uniques": 93
+    "count": 157,
+    "uniques": 94
   },
   {
     "referrer": "Google",
-    "count": 102,
-    "uniques": 56
+    "count": 99,
+    "uniques": 53
   },
   {
     "referrer": "github.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 23,
-    "uniques": 12
+    "count": 24,
+    "uniques": 13
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
@@ -35,17 +35,17 @@
     "uniques": 2
   },
   {
+    "referrer": "claude.ai",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "referrer": "ai.spoc.site",
     "count": 3,
     "uniques": 1
   },
   {
     "referrer": "planner.cloud.microsoft",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
     "count": 3,
     "uniques": 1
   }
