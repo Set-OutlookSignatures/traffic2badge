@@ -1,38 +1,38 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 157,
-    "uniques": 94
+    "count": 148,
+    "uniques": 91
   },
   {
     "referrer": "Google",
-    "count": 99,
-    "uniques": 53
+    "count": 96,
+    "uniques": 51
   },
   {
     "referrer": "github.com",
-    "count": 88,
-    "uniques": 32
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 24,
-    "uniques": 13
+    "count": 80,
+    "uniques": 30
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 17,
-    "uniques": 11
+    "count": 20,
+    "uniques": 14
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 15,
+    "uniques": 9
   },
   {
     "referrer": "Bing",
-    "count": 14,
-    "uniques": 10
+    "count": 13,
+    "uniques": 9
   },
   {
-    "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 4,
-    "uniques": 2
+    "referrer": "com.reddit.frontpage",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "claude.ai",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "planner.cloud.microsoft",
+    "referrer": "interoperable-europe.ec.europa.eu",
     "count": 3,
     "uniques": 1
   }

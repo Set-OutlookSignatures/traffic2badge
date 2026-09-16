@@ -2,20 +2,20 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 451,
-    "uniques": 279
+    "count": 426,
+    "uniques": 268
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "/tree/main/src_Set-OutlookSignatures",
-    "count": 37,
-    "uniques": 30
+    "count": 33,
+    "uniques": 27
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
     "title": "/releases",
-    "count": 18,
-    "uniques": 14
+    "count": 19,
+    "uniques": 15
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
@@ -26,8 +26,8 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 16,
-    "uniques": 11
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
@@ -36,16 +36,16 @@
     "uniques": 4
   },
   {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/license.txt",
+    "title": "/blob/main/license.txt",
+    "count": 11,
+    "uniques": 9
+  },
+  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "title": "/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
     "count": 11,
     "uniques": 8
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
-    "title": "/blob/main/download information.txt",
-    "count": 10,
-    "uniques": 10
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
@@ -54,9 +54,9 @@
     "uniques": 10
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/license.txt",
-    "title": "/blob/main/license.txt",
-    "count": 10,
-    "uniques": 8
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.31.0",
+    "title": "/releases/tag/v4.31.0",
+    "count": 9,
+    "uniques": 7
   }
 ]
