@@ -2,32 +2,32 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 457,
-    "uniques": 310
+    "count": 458,
+    "uniques": 299
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "/tree/main/src_Set-OutlookSignatures",
-    "count": 36,
-    "uniques": 26
+    "count": 44,
+    "uniques": 29
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.31.0",
     "title": "/releases/tag/v4.31.0",
-    "count": 31,
-    "uniques": 22
+    "count": 41,
+    "uniques": 23
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
     "title": "/releases",
-    "count": 28,
-    "uniques": 23
+    "count": 29,
+    "uniques": 24
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
-    "title": "/discussions",
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
+    "title": "/tree/main/docs",
     "count": 21,
-    "uniques": 5
+    "uniques": 13
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/src_Set-OutlookSignatures/Set-OutlookSignatures.ps1",
@@ -38,25 +38,25 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/main/download information.txt",
     "title": "/blob/main/download information.txt",
-    "count": 19,
-    "uniques": 9
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
-    "title": "/tree/main/docs",
-    "count": 17,
-    "uniques": 13
+    "count": 20,
+    "uniques": 11
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
     "title": "/issues",
-    "count": 16,
-    "uniques": 10
+    "count": 20,
+    "uniques": 11
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
+    "title": "/discussions",
+    "count": 20,
+    "uniques": 5
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "/tree/main",
-    "count": 14,
-    "uniques": 8
+    "count": 17,
+    "uniques": 10
   }
 ]
