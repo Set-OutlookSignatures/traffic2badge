@@ -2,7 +2,13 @@
   {
     "path": "/Set-OutlookSignatures/traffic2badge",
     "title": "Overview",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Set-OutlookSignatures/traffic2badge/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
   }
 ]

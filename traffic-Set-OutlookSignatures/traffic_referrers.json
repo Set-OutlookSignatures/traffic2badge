@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 99,
-    "uniques": 75
+    "count": 98,
+    "uniques": 74
   },
   {
     "referrer": "Google",
-    "count": 76,
-    "uniques": 55
+    "count": 80,
+    "uniques": 58
   },
   {
     "referrer": "github.com",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 16,
+    "count": 15,
     "uniques": 9
   },
   {
