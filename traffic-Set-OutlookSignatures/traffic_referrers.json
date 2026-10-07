@@ -1,27 +1,27 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 98,
+    "count": 96,
     "uniques": 74
   },
   {
     "referrer": "Google",
-    "count": 80,
-    "uniques": 58
+    "count": 89,
+    "uniques": 63
   },
   {
     "referrer": "github.com",
-    "count": 69,
-    "uniques": 48
+    "count": 67,
+    "uniques": 49
   },
   {
     "referrer": "chatgpt.com",
-    "count": 19,
-    "uniques": 12
+    "count": 15,
+    "uniques": 10
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 15,
+    "count": 14,
     "uniques": 9
   },
   {
@@ -30,23 +30,23 @@
     "uniques": 9
   },
   {
-    "referrer": "search.brave.com",
-    "count": 8,
-    "uniques": 4
+    "referrer": "com.reddit.frontpage",
+    "count": 4,
+    "uniques": 3
   },
   {
-    "referrer": "com.reddit.frontpage",
+    "referrer": "search.brave.com",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "referrer": "interoperable-europe.ec.europa.eu",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "engage.cloud.microsoft",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "aocr.org",
-    "count": 2,
     "uniques": 2
   }
 ]
