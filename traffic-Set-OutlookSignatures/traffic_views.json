@@ -5293,14 +5293,14 @@
       "uniques": 8
     },
     {
-      "timestamp": "2026-09-29T00:00:00Z",
-      "count": 120,
-      "uniques": 47
-    },
-    {
       "timestamp": "2026-09-30T00:00:00Z",
       "count": 87,
       "uniques": 37
+    },
+    {
+      "timestamp": "2026-09-29T00:00:00Z",
+      "count": 120,
+      "uniques": 47
     },
     {
       "timestamp": "2026-10-01T00:00:00Z",
