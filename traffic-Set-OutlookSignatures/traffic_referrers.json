@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 104,
-    "uniques": 76
+    "count": 106,
+    "uniques": 77
   },
   {
     "referrer": "Google",
-    "count": 93,
-    "uniques": 68
+    "count": 83,
+    "uniques": 63
   },
   {
     "referrer": "github.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 19,
-    "uniques": 14
+    "count": 18,
+    "uniques": 15
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
@@ -40,12 +40,12 @@
     "uniques": 3
   },
   {
-    "referrer": "engage.cloud.microsoft",
-    "count": 3,
+    "referrer": "DuckDuckGo",
+    "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "aocr.org",
     "count": 2,
     "uniques": 2
   }
