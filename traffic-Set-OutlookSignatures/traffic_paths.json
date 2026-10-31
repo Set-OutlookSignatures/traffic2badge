@@ -2,8 +2,14 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 240,
-    "uniques": 177
+    "count": 255,
+    "uniques": 185
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
+    "title": "/tree/main/src_Set-OutlookSignatures",
+    "count": 24,
+    "uniques": 16
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/2d9d7582/src_Set-OutlookSignatures/sample code/SimulateAndDeploy.ps1",
@@ -12,40 +18,34 @@
     "uniques": 23
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
-    "title": "/discussions",
-    "count": 19,
-    "uniques": 7
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
-    "title": "/tree/main/src_Set-OutlookSignatures",
-    "count": 18,
-    "uniques": 12
-  },
-  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases",
     "title": "/releases",
-    "count": 16,
-    "uniques": 16
+    "count": 19,
+    "uniques": 19
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
+    "title": "/discussions",
+    "count": 18,
+    "uniques": 7
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "/tree/main",
-    "count": 16,
-    "uniques": 14
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
-    "title": "/issues",
-    "count": 11,
-    "uniques": 8
+    "count": 17,
+    "uniques": 15
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.32.0",
     "title": "/releases/tag/v4.32.0",
-    "count": 10,
-    "uniques": 9
+    "count": 14,
+    "uniques": 11
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
+    "title": "/issues",
+    "count": 13,
+    "uniques": 8
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/2d9d7582/src_Set-OutlookSignatures/sample code/Create-EntraApp.ps1",
@@ -56,7 +56,7 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
     "title": "/tree/main/docs",
-    "count": 8,
-    "uniques": 6
+    "count": 9,
+    "uniques": 7
   }
 ]
