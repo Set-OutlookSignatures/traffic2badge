@@ -2,14 +2,14 @@
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures",
     "title": "Overview",
-    "count": 255,
-    "uniques": 185
+    "count": 257,
+    "uniques": 184
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/src_Set-OutlookSignatures",
     "title": "/tree/main/src_Set-OutlookSignatures",
-    "count": 24,
-    "uniques": 16
+    "count": 25,
+    "uniques": 17
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/blob/2d9d7582/src_Set-OutlookSignatures/sample code/SimulateAndDeploy.ps1",
@@ -24,27 +24,33 @@
     "uniques": 19
   },
   {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
-    "title": "/discussions",
-    "count": 18,
-    "uniques": 7
-  },
-  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main",
     "title": "/tree/main",
     "count": 17,
     "uniques": 15
   },
   {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/discussions",
+    "title": "/discussions",
+    "count": 16,
+    "uniques": 6
+  },
+  {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/releases/tag/v4.32.0",
     "title": "/releases/tag/v4.32.0",
-    "count": 14,
-    "uniques": 11
+    "count": 15,
+    "uniques": 12
   },
   {
     "path": "/Set-OutlookSignatures/Set-OutlookSignatures/issues",
     "title": "/issues",
-    "count": 13,
+    "count": 12,
+    "uniques": 7
+  },
+  {
+    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
+    "title": "/tree/main/docs",
+    "count": 10,
     "uniques": 8
   },
   {
@@ -52,11 +58,5 @@
     "title": "/blob/2d9d7582/src_Set-OutlookSignatures/sample code/Create-EntraApp.ps1",
     "count": 9,
     "uniques": 9
-  },
-  {
-    "path": "/Set-OutlookSignatures/Set-OutlookSignatures/tree/main/docs",
-    "title": "/tree/main/docs",
-    "count": 9,
-    "uniques": 7
   }
 ]
