@@ -6,18 +6,18 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 71,
-    "uniques": 48
+    "count": 75,
+    "uniques": 52
   },
   {
     "referrer": "Google",
-    "count": 48,
-    "uniques": 34
+    "count": 56,
+    "uniques": 42
   },
   {
     "referrer": "github.com",
-    "count": 15,
-    "uniques": 15
+    "count": 18,
+    "uniques": 17
   },
   {
     "referrer": "Bing",
@@ -25,12 +25,12 @@
     "uniques": 6
   },
   {
-    "referrer": "support.ablinger.co.at",
-    "count": 3,
-    "uniques": 2
+    "referrer": "teams.public.onecdn.static.microsoft",
+    "count": 4,
+    "uniques": 3
   },
   {
-    "referrer": "teams.public.onecdn.static.microsoft",
+    "referrer": "support.ablinger.co.at",
     "count": 3,
     "uniques": 2
   },
