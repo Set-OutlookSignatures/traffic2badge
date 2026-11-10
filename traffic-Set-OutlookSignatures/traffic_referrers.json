@@ -6,8 +6,8 @@
   },
   {
     "referrer": "Google",
-    "count": 78,
-    "uniques": 59
+    "count": 77,
+    "uniques": 58
   },
   {
     "referrer": "reddit.com",
@@ -20,14 +20,14 @@
     "uniques": 25
   },
   {
-    "referrer": "Bing",
-    "count": 6,
+    "referrer": "interoperable-europe.ec.europa.eu",
+    "count": 8,
     "uniques": 6
   },
   {
-    "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 5,
-    "uniques": 5
+    "referrer": "Bing",
+    "count": 6,
+    "uniques": 6
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "search.brave.com",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "support.ablinger.co.at",
