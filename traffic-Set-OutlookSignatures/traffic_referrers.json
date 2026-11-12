@@ -1,37 +1,37 @@
 [
   {
     "referrer": "Google",
-    "count": 77,
-    "uniques": 59
+    "count": 76,
+    "uniques": 58
   },
   {
     "referrer": "reddit.com",
-    "count": 74,
-    "uniques": 52
+    "count": 75,
+    "uniques": 54
   },
   {
     "referrer": "aocr.org",
-    "count": 69,
-    "uniques": 69
+    "count": 67,
+    "uniques": 67
   },
   {
     "referrer": "github.com",
-    "count": 30,
-    "uniques": 22
+    "count": 32,
+    "uniques": 23
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
-    "count": 11,
+    "count": 12,
     "uniques": 7
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 7,
-    "uniques": 5
+    "count": 9,
+    "uniques": 6
   },
   {
     "referrer": "Bing",
-    "count": 6,
+    "count": 7,
     "uniques": 6
   },
   {
