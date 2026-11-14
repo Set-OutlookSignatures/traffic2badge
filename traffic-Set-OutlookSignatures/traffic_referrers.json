@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 80,
-    "uniques": 62
+    "count": 81,
+    "uniques": 63
   },
   {
     "referrer": "reddit.com",
-    "count": 74,
-    "uniques": 54
+    "count": 70,
+    "uniques": 51
   },
   {
     "referrer": "aocr.org",
-    "count": 59,
-    "uniques": 59
+    "count": 41,
+    "uniques": 41
   },
   {
     "referrer": "github.com",
-    "count": 33,
-    "uniques": 24
+    "count": 34,
+    "uniques": 25
   },
   {
     "referrer": "interoperable-europe.ec.europa.eu",
@@ -26,13 +26,13 @@
   },
   {
     "referrer": "Bing",
-    "count": 11,
-    "uniques": 7
+    "count": 10,
+    "uniques": 5
   },
   {
     "referrer": "teams.public.onecdn.static.microsoft",
-    "count": 9,
-    "uniques": 6
+    "count": 7,
+    "uniques": 5
   },
   {
     "referrer": "search.brave.com",
