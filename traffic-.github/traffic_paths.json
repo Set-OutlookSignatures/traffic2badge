@@ -2,25 +2,13 @@
   {
     "path": "/Set-OutlookSignatures/.github",
     "title": "Overview",
-    "count": 5,
+    "count": 4,
     "uniques": 4
   },
   {
     "path": "/Set-OutlookSignatures/.github/tree/main/profile",
     "title": "/tree/main/profile",
-    "count": 4,
+    "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/Set-OutlookSignatures/.github/blob/main/profile/README.md",
-    "title": "/blob/main/profile/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Set-OutlookSignatures/.github/tree/main/profile/README.md",
-    "title": "/tree/main/profile/README.md",
-    "count": 1,
-    "uniques": 1
   }
 ]
