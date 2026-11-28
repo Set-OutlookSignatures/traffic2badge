@@ -5518,14 +5518,14 @@
       "uniques": 27
     },
     {
-      "timestamp": "2026-11-13T00:00:00Z",
-      "count": 62,
-      "uniques": 36
-    },
-    {
       "timestamp": "2026-11-14T00:00:00Z",
       "count": 17,
       "uniques": 15
+    },
+    {
+      "timestamp": "2026-11-13T00:00:00Z",
+      "count": 62,
+      "uniques": 36
     },
     {
       "timestamp": "2026-11-15T00:00:00Z",
